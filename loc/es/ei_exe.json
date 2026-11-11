@@ -1,0 +1,226 @@
+[
+  {
+    "raw_offset": "0x05aa40",
+    "va": "0x0045c040",
+    "max_bytes": 19,
+    "en": "Unauthorised Copy!",
+    "es": "Copia no autorizada"
+  },
+  {
+    "raw_offset": "0x05aa6c",
+    "va": "0x0045c06c",
+    "max_bytes": 31,
+    "en": "Lobby Init failed, DX6 required",
+    "es": "Error de sala: requiere DX6"
+  },
+  {
+    "raw_offset": "0x05ab90",
+    "va": "0x0045c190",
+    "max_bytes": 15,
+    "en": "Fatal Error: %s",
+    "es": "Error fatal: %s"
+  },
+  {
+    "raw_offset": "0x05abc8",
+    "va": "0x0045c1c8",
+    "max_bytes": 19,
+    "en": "Please Insert CDROM",
+    "es": "Inserta el CD-ROM"
+  },
+  {
+    "raw_offset": "0x05afa0",
+    "va": "0x0045c5a0",
+    "max_bytes": 7,
+    "en": "Trooper",
+    "es": "Soldado"
+  },
+  {
+    "raw_offset": "0x05afec",
+    "va": "0x0045c5ec",
+    "max_bytes": 7,
+    "en": "Hello.",
+    "es": "Hola."
+  },
+  {
+    "raw_offset": "0x05aff8",
+    "va": "0x0045c5f8",
+    "max_bytes": 15,
+    "en": "Aliens stopped",
+    "es": "Aliens parados"
+  },
+  {
+    "raw_offset": "0x05b008",
+    "va": "0x0045c608",
+    "max_bytes": 15,
+    "en": "Aliens started",
+    "es": "Aliens activos"
+  },
+  {
+    "raw_offset": "0x05b024",
+    "va": "0x0045c624",
+    "max_bytes": 23,
+    "en": "%s: click to move here",
+    "es": "%s: clic para ir aquí"
+  },
+  {
+    "raw_offset": "0x05b03c",
+    "va": "0x0045c63c",
+    "max_bytes": 27,
+    "en": "Click to cancel Move mode",
+    "es": "Clic cancela modo Mover"
+  },
+  {
+    "raw_offset": "0x05b06c",
+    "va": "0x0045c66c",
+    "max_bytes": 15,
+    "en": "The Party...",
+    "es": "La fiesta..."
+  },
+  {
+    "raw_offset": "0x05b07c",
+    "va": "0x0045c67c",
+    "max_bytes": 11,
+    "en": "is over.",
+    "es": "terminó."
+  },
+  {
+    "raw_offset": "0x05b088",
+    "va": "0x0045c688",
+    "max_bytes": 11,
+    "en": "episode ",
+    "es": "episodio "
+  },
+  {
+    "raw_offset": "0x05b0e8",
+    "va": "0x0045c6e8",
+    "max_bytes": 7,
+    "en": "(M)ove",
+    "es": "(M)over"
+  },
+  {
+    "raw_offset": "0x05b0f0",
+    "va": "0x0045c6f0",
+    "max_bytes": 7,
+    "en": "Grow",
+    "es": "Crecer"
+  },
+  {
+    "raw_offset": "0x05b0f8",
+    "va": "0x0045c6f8",
+    "max_bytes": 7,
+    "en": "Spin",
+    "es": "Girar"
+  },
+  {
+    "raw_offset": "0x05b180",
+    "va": "0x0045c780",
+    "max_bytes": 7,
+    "en": "Send",
+    "es": "Enviar"
+  },
+  {
+    "raw_offset": "0x05b1a0",
+    "va": "0x0045c7a0",
+    "max_bytes": 27,
+    "en": "Cannot open file 'help.txt'",
+    "es": "No se pudo abrir 'help.txt'"
+  },
+  {
+    "raw_offset": "0x05b1e8",
+    "va": "0x0045c7e8",
+    "max_bytes": 15,
+    "en": "General error",
+    "es": "Error general"
+  },
+  {
+    "raw_offset": "0x05b1f8",
+    "va": "0x0045c7f8",
+    "max_bytes": 23,
+    "en": "Receive buffer overflow",
+    "es": "Búfer recepción lleno"
+  },
+  {
+    "raw_offset": "0x05b210",
+    "va": "0x0045c810",
+    "max_bytes": 23,
+    "en": "Sending buffer overflow",
+    "es": "Búfer de envío lleno"
+  },
+  {
+    "raw_offset": "0x05b27c",
+    "va": "0x0045c87c",
+    "max_bytes": 23,
+    "en": "Unable to join session",
+    "es": "Error al unir a sesión"
+  },
+  {
+    "raw_offset": "0x05b294",
+    "va": "0x0045c894",
+    "max_bytes": 39,
+    "en": "Failed to init network, DX6 required",
+    "es": "Fallo de red: requiere DirectX 6"
+  },
+  {
+    "raw_offset": "0x05b2d0",
+    "va": "0x0045c8d0",
+    "max_bytes": 7,
+    "en": "Serial",
+    "es": "Serie"
+  },
+  {
+    "raw_offset": "0x05b2d8",
+    "va": "0x0045c8d8",
+    "max_bytes": 7,
+    "en": "Modem",
+    "es": "Módem"
+  },
+  {
+    "raw_offset": "0x05c2c0",
+    "va": "0x0045d8c0",
+    "max_bytes": 15,
+    "en": "Game Message",
+    "es": "Mensaje juego"
+  },
+  {
+    "raw_offset": "0x05c2d0",
+    "va": "0x0045d8d0",
+    "max_bytes": 15,
+    "en": "Session Lost",
+    "es": "Sesión perdida"
+  },
+  {
+    "raw_offset": "0x05c2e0",
+    "va": "0x0045d8e0",
+    "max_bytes": 15,
+    "en": "Player Created",
+    "es": "Jugador creado"
+  },
+  {
+    "raw_offset": "0x05c2f0",
+    "va": "0x0045d8f0",
+    "max_bytes": 19,
+    "en": "Player Destroyed",
+    "es": "Jugador eliminado"
+  },
+  {
+    "raw_offset": "0x05c697",
+    "va": "0x0045dc97",
+    "max_bytes": 19,
+    "en": "Application Error: ",
+    "es": "Error aplicación: "
+  },
+  {
+    "raw_offset": "0x05c6ab",
+    "va": "0x0045dcab",
+    "max_bytes": 44,
+    "en": "\n\nClick on OK to terminate the application",
+    "es": "\n\nHaz clic en Aceptar para cerrar el juego"
+  },
+  {
+    "raw_offset": "0x05f2f0",
+    "va": "0x004608f0",
+    "max_bytes": 63,
+    "en": "This is the base view",
+    "es": "Esta es la vista de la base"
+  }
+]

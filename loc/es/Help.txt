@@ -1,0 +1,70 @@
+                               AYUDA EN LÍNEA DE ENEMY INFESTATION
+ 
+DESPLAZAMIENTO DE LA VISTA
+Usa las teclas de flecha para mover la pantalla de juego, indicada por el rectángulo blanco en el minimapa. También puedes hacer clic en cualquier parte del minimapa para ir directo a esa ubicación.
+ 
+TIPOS DE CURSOR (CLIC IZQUIERDO PARA REALIZAR LA ACCIÓN):
+Flecha amarilla - mueve a los colonos seleccionados hacia ese punto
+Mano amarilla apuntando - selecciona un colono, objeto o arma
+Cruz roja - fuera de los límites o no se puede usar el objeto
+Jeringa - reanima colonos inconscientes (solo oficial médico)
+Mano verde sujetando - toma un alíen inconsciente
+Mira roja - selecciona un enemigo para atacar
+ 
+Al pasar el cursor sobre cualquier objeto, personaje, arma o sala aparecerán contornos verdes y descripciones breves.
+
+ 
+SELECCIÓN DE COLONOS
+o Haz clic sobre un personaje en pantalla
+o Haz clic y arrastra un rectángulo para seleccionar a varios colonos
+o Haz doble clic en un colono para seleccionar a todos los colonos de esa sala
+o Haz clic en un retrato pequeño para seleccionar a ese colono
+o Haz doble clic en un retrato pequeño para seleccionar y centrar la vista en él
+o Mantén presionado SHIFT para agregar o quitar personajes de la selección
+o CTRL + Número (0-9) crea un grupo; presiona ese número para volver a seleccionarlo
+ 
+ 
+TECLAS RÁPIDAS DE BOTONES DE COMANDO
++  Curar (cura un cuerpo o a un colono gravemente herido)
+B  Soltar cuerpo
+D  Dejar arma
+H  Ocultarse (se esconde en el refugio más cercano de la sala o busca una sala segura)
+F  Huir (sale de la sala)
+A  Atacar (ataca al enemigo más cercano en la sala)
+S  Golpear (ataca cuerpo a cuerpo al enemigo más cercano en la sala)
+G  Tomar alíen (recoge el cuerpo de un alíen)
+Barra espaciadora  Detener
+  
+ 
+BOTONES DE REACCIÓN Y TECLAS RÁPIDAS
+Define el comportamiento del colono al avistar un alíen:
+F5  Lucha - Busca activamente combatir al enemigo. Otros colonos en la sala también se unirán.
+F6  Ocultarse - Busca el escondite más cercano y se oculta.
+F7  Guardia - Mantiene su posición, dispara armas a distancia y solo pelea cuerpo a cuerpo si es atacado.
+F8  Nada - No hace nada.
+ 
+ 
+OTRAS TECLAS RÁPIDAS
+F1  Muestra esta ayuda en línea
+F2  Guardado rápido - guarda la partida con el nombre predeterminado
+F3  Carga rápida - carga la última partida guardada o cargada
+
+ 
+COLA DE ÓRDENES
+Mantén SHIFT al hacer clic para programar una secuencia de acciones en el colono seleccionado. Por ejemplo: mantén SHIFT y haz clic en una máquina, luego en el suelo y otra vez en el suelo para usar la máquina, moverse a un punto y seguir hacia el siguiente.
+ 
+ 
+INFORMACIÓN CONTEXTUAL
+Haz clic derecho sobre cualquier objeto, arma o personaje en el escenario o en la interfaz para ver sus detalles sin cambiar tu selección actual.
+ 
+  
+PESTAÑAS DE LA INTERFAZ
+Equipo (EQUIPO) - Datos del colono: nombre, salud, habilidades, arma equipada, etc.
+Armas (ARMAS) - Detalles sobre efectos, cargas restantes, portador, etc.
+Comunicaciones (COMUN.) - Registro cronológico de mensajes de los colonos y la computadora
+Objetos (OBJETOS) - Detalles sobre objetos interactivos y máquinas del juego
+Metas (METAS) - Lista de objetivos, aliens en la base, objetos y armas por descubrir
+Menú (MENÚ) - Controles de sonido, cargar, guardar, salir y mostrar armas flotantes sobre la cabeza
+ 
+ 
+                                         -=-

@@ -1,0 +1,1437 @@
+{
+  "mapd": [
+    {
+      "file": "Map1.res",
+      "chunk_index": 154,
+      "id": 0,
+      "name_max_bytes": 31,
+      "name_en": "The greenhouse",
+      "name_es": "El Invernadero",
+      "base_max_bytes": 39,
+      "base_en": "Greenhouse base",
+      "base_es": "Base Invernadero"
+    },
+    {
+      "file": "Map1.res",
+      "chunk_index": 197,
+      "id": 0,
+      "name_max_bytes": 31,
+      "name_en": "The greenhouse",
+      "name_es": "El Invernadero",
+      "base_max_bytes": 39,
+      "base_en": "Greenhouse base",
+      "base_es": "Base Invernadero"
+    },
+    {
+      "file": "Map2.res",
+      "chunk_index": 151,
+      "id": 0,
+      "name_max_bytes": 31,
+      "name_en": "The lagoon",
+      "name_es": "La Laguna",
+      "base_max_bytes": 39,
+      "base_en": "Underwater base",
+      "base_es": "Base Submarina"
+    },
+    {
+      "file": "Map2.res",
+      "chunk_index": 200,
+      "id": 0,
+      "name_max_bytes": 31,
+      "name_en": "The lagoon",
+      "name_es": "La Laguna",
+      "base_max_bytes": 39,
+      "base_en": "Underwater base",
+      "base_es": "Base Submarina"
+    },
+    {
+      "file": "Map3.res",
+      "chunk_index": 144,
+      "id": 0,
+      "name_max_bytes": 31,
+      "name_en": "The Ice Mine",
+      "name_es": "La Mina de Hielo",
+      "base_max_bytes": 39,
+      "base_en": "Ice base",
+      "base_es": "Base de Hielo"
+    },
+    {
+      "file": "Map3.res",
+      "chunk_index": 201,
+      "id": 0,
+      "name_max_bytes": 31,
+      "name_en": "The Ice Mine",
+      "name_es": "La Mina de Hielo",
+      "base_max_bytes": 39,
+      "base_en": "Ice base",
+      "base_es": "Base de Hielo"
+    },
+    {
+      "file": "Map5.res",
+      "chunk_index": 118,
+      "id": 0,
+      "name_max_bytes": 31,
+      "name_en": "Space",
+      "name_es": "Espacio",
+      "base_max_bytes": 39,
+      "base_en": "Command centre",
+      "base_es": "Centro de mando"
+    },
+    {
+      "file": "Map5.res",
+      "chunk_index": 160,
+      "id": 0,
+      "name_max_bytes": 31,
+      "name_en": "Space",
+      "name_es": "Espacio",
+      "base_max_bytes": 39,
+      "base_en": "Command centre",
+      "base_es": "Centro de mando"
+    },
+    {
+      "file": "Map6.res",
+      "chunk_index": 54,
+      "id": 0,
+      "name_max_bytes": 31,
+      "name_en": "Luna",
+      "name_es": "Luna",
+      "base_max_bytes": 39,
+      "base_en": "The Luna Base",
+      "base_es": "Base Lunar"
+    },
+    {
+      "file": "Map6.res",
+      "chunk_index": 66,
+      "id": 0,
+      "name_max_bytes": 31,
+      "name_en": "Luna",
+      "name_es": "Luna",
+      "base_max_bytes": 39,
+      "base_en": "The Luna Base",
+      "base_es": "Base Lunar"
+    },
+    {
+      "file": "Map7.res",
+      "chunk_index": 62,
+      "id": 0,
+      "name_max_bytes": 31,
+      "name_en": "Fora",
+      "name_es": "Fora",
+      "base_max_bytes": 39,
+      "base_en": "The training Base",
+      "base_es": "Base de entrenamiento"
+    },
+    {
+      "file": "Map7.res",
+      "chunk_index": 71,
+      "id": 0,
+      "name_max_bytes": 31,
+      "name_en": "Fora",
+      "name_es": "Fora",
+      "base_max_bytes": 39,
+      "base_en": "The training Base",
+      "base_es": "Base de entrenamiento"
+    }
+  ],
+  "room_names": [
+    {
+      "max_bytes": 31,
+      "en": "Admin Center",
+      "es": "Centro admin.",
+      "refs": [
+        "Map5.res:5"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Advanced Weapons Briefing",
+      "es": "Sala armas avanzadas",
+      "refs": [
+        "Map7.res:2"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Advanced Weapons Sector",
+      "es": "Sector armas avanzadas",
+      "refs": [
+        "Map7.res:3"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Air Lock #1",
+      "es": "Esclusa #1",
+      "refs": [
+        "Map2.res:20"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Air Lock #2",
+      "es": "Esclusa #2",
+      "refs": [
+        "Map2.res:24"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Air Lock 1",
+      "es": "Esclusa 1",
+      "refs": [
+        "Map1.res:10"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Air Lock 2",
+      "es": "Esclusa 2",
+      "refs": [
+        "Map1.res:20"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Air Recycling",
+      "es": "Reciclaje de aire",
+      "refs": [
+        "Map5.res:19"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Airlock",
+      "es": "Esclusa",
+      "refs": [
+        "Map5.res:36"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Anteroom",
+      "es": "Antesala",
+      "refs": [
+        "Map3.res:27"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Armory",
+      "es": "Armería",
+      "refs": [
+        "Map1.res:34",
+        "Map3.res:38"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Armoury",
+      "es": "Armería",
+      "refs": [
+        "Map5.res:21"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Back Store",
+      "es": "Almacén trasero",
+      "refs": [
+        "Map2.res:56"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Bar",
+      "es": "Bar",
+      "refs": [
+        "Map2.res:23",
+        "Map3.res:40"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Barracks",
+      "es": "Barracones",
+      "refs": [
+        "Map5.res:25"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Base Surrounds NE",
+      "es": "Perímetro exterior NE",
+      "refs": [
+        "Map6.res:12"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Basic Weapons Briefing",
+      "es": "Sala armas básicas",
+      "refs": [
+        "Map7.res:9"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Bridge (Command HQ)",
+      "es": "Puente (Cuartel gral.)",
+      "refs": [
+        "Map5.res:34"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Cafe/Bar",
+      "es": "Café/Bar",
+      "refs": [
+        "Map1.res:14"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Cafeteria",
+      "es": "Cafetería",
+      "refs": [
+        "Map2.res:46"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Captains Quarters",
+      "es": "Aposentos del capitán",
+      "refs": [
+        "Map5.res:37"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Cargo Bay",
+      "es": "Bahía de carga",
+      "refs": [
+        "Map2.res:40",
+        "Map5.res:10"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Chemical Store",
+      "es": "Almacén químico",
+      "refs": [
+        "Map2.res:26"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Cockpit",
+      "es": "Cabina",
+      "refs": [
+        "Map3.res:15"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Command HQ Foyer",
+      "es": "Vestíbulo de mando",
+      "refs": [
+        "Map5.res:35"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Commander's Quarters",
+      "es": "Aposentos comandante",
+      "refs": [
+        "Map1.res:2",
+        "Map2.res:8",
+        "Map3.res:17"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Communications",
+      "es": "Comunicaciones",
+      "refs": [
+        "Map1.res:1",
+        "Map2.res:4"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Compound",
+      "es": "Recinto",
+      "refs": [
+        "Map5.res:9"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Control Centre",
+      "es": "Centro de control",
+      "refs": [
+        "Map3.res:10"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Corridor",
+      "es": "Pasillo",
+      "refs": [
+        "Map2.res:1",
+        "Map5.res:27",
+        "Map5.res:2"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Corridor A",
+      "es": "Pasillo A",
+      "refs": [
+        "Map3.res:7"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Corridor B",
+      "es": "Pasillo B",
+      "refs": [
+        "Map1.res:13",
+        "Map3.res:31"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Corridor D1",
+      "es": "Pasillo D1",
+      "refs": [
+        "Map1.res:48"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Corridor D2",
+      "es": "Pasillo D2",
+      "refs": [
+        "Map1.res:39"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Corridor D3",
+      "es": "Pasillo D3",
+      "refs": [
+        "Map1.res:36"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Crew Lounge",
+      "es": "Sala tripulación",
+      "refs": [
+        "Map1.res:47",
+        "Map2.res:7"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Customs",
+      "es": "Aduana",
+      "refs": [
+        "Map5.res:11"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Customs Admin",
+      "es": "Admin. de aduana",
+      "refs": [
+        "Map5.res:12"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Decompression Chamber #1",
+      "es": "Cámara descompresión #1",
+      "refs": [
+        "Map2.res:58"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Decompression Chamber #2",
+      "es": "Cámara descompresión #2",
+      "refs": [
+        "Map2.res:59"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Decompression Chamber #3",
+      "es": "Cámara descompresión #3",
+      "refs": [
+        "Map2.res:60"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Docked Vessel",
+      "es": "Nave acoplada",
+      "refs": [
+        "Map5.res:15"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Docking Bay",
+      "es": "Bahía de acoplamiento",
+      "refs": [
+        "Map5.res:20"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Docking Bay #2",
+      "es": "Bahía acoplamiento #2",
+      "refs": [
+        "Map3.res:23"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Docking Chamber",
+      "es": "Cámara de acoplamiento",
+      "refs": [
+        "Map3.res:13"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Duty Room",
+      "es": "Sala de guardia",
+      "refs": [
+        "Map1.res:24"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Electronics Lab",
+      "es": "Lab. de electrónica",
+      "refs": [
+        "Map1.res:42"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Engine Room",
+      "es": "Sala de máquinas",
+      "refs": [
+        "Map5.res:6"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Engine room",
+      "es": "Sala de máquinas",
+      "refs": [
+        "Map3.res:12"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Entertainment",
+      "es": "Entretenimiento",
+      "refs": [
+        "Map1.res:31"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Entry Corridor",
+      "es": "Pasillo de entrada",
+      "refs": [
+        "Map6.res:3"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Enviro Suit Room",
+      "es": "Sala de trajes amb.",
+      "refs": [
+        "Map3.res:21"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Enviro-control",
+      "es": "Control ambiental",
+      "refs": [
+        "Map1.res:33"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Examination Room",
+      "es": "Sala de examen",
+      "refs": [
+        "Map5.res:3"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Exit",
+      "es": "Salida",
+      "refs": [
+        "Map7.res:7"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Exterior Walkway",
+      "es": "Pasarela exterior",
+      "refs": [
+        "Map7.res:10"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Filtration #1",
+      "es": "Filtración #1",
+      "refs": [
+        "Map2.res:17"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Filtration #2",
+      "es": "Filtración #2",
+      "refs": [
+        "Map2.res:32"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Fitness Centre",
+      "es": "Gimnasio",
+      "refs": [
+        "Map2.res:6"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Food Storage",
+      "es": "Almacén de víveres",
+      "refs": [
+        "Map5.res:29"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Foyer",
+      "es": "Vestíbulo",
+      "refs": [
+        "Map7.res:1"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Freezer",
+      "es": "Congelador",
+      "refs": [
+        "Map2.res:48"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Galley",
+      "es": "Cocina de nave",
+      "refs": [
+        "Map3.res:14"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Games Centre",
+      "es": "Sala de juegos",
+      "refs": [
+        "Map3.res:18"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Gangway 5",
+      "es": "Pasarela 5",
+      "refs": [
+        "Map5.res:33"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Gangway Four",
+      "es": "Pasarela Cuatro",
+      "refs": [
+        "Map5.res:24"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Gangway One",
+      "es": "Pasarela Uno",
+      "refs": [
+        "Map5.res:7"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Gangway Three",
+      "es": "Pasarela Tres",
+      "refs": [
+        "Map5.res:14"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Gangway Two",
+      "es": "Pasarela Dos",
+      "refs": [
+        "Map5.res:13"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Garage",
+      "es": "Garaje",
+      "refs": [
+        "Map2.res:5"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Gas Bottling Plant",
+      "es": "Planta de gas",
+      "refs": [
+        "Map6.res:9"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Greehouse Balcony",
+      "es": "Balcón del invernadero",
+      "refs": [
+        "Map1.res:5"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Greenhouse",
+      "es": "Invernadero",
+      "refs": [
+        "Map1.res:53"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Greenhouse Control",
+      "es": "Control invernadero",
+      "refs": [
+        "Map1.res:4"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Gymnasium",
+      "es": "Gimnasio",
+      "refs": [
+        "Map1.res:17"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Hall Of Fame",
+      "es": "Salón de la fama",
+      "refs": [
+        "Map2.res:43"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Heat Pumps",
+      "es": "Bombas de calor",
+      "refs": [
+        "Map3.res:32"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Heating Control",
+      "es": "Control calefacción",
+      "refs": [
+        "Map2.res:27"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Heating Control #2",
+      "es": "Control calefacción #2",
+      "refs": [
+        "Map2.res:31"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Heating Regulation",
+      "es": "Regulación térmica",
+      "refs": [
+        "Map3.res:22"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Hibernation Chamber",
+      "es": "Cámara hibernación",
+      "refs": [
+        "Map3.res:29"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Holobeach",
+      "es": "Holoplaya",
+      "refs": [
+        "Map3.res:4"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Hydroponics",
+      "es": "Hidroponía",
+      "refs": [
+        "Map5.res:18"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Hygiene Centre",
+      "es": "Centro de higiene",
+      "refs": [
+        "Map3.res:25"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Ice Mineral Processing",
+      "es": "Proceso mineral hielo",
+      "refs": [
+        "Map3.res:28"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Immigration",
+      "es": "Inmigración",
+      "refs": [
+        "Map5.res:22"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Immigration Admin",
+      "es": "Admin. inmigración",
+      "refs": [
+        "Map5.res:23"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Internal Base Perimeter",
+      "es": "Perímetro interno base",
+      "refs": [
+        "Map6.res:13"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Janitor's Closet",
+      "es": "Cuarto de limpieza",
+      "refs": [
+        "Map5.res:31"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Kelp Extraction",
+      "es": "Extracción de algas",
+      "refs": [
+        "Map2.res:29"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Kelp Processing",
+      "es": "Proceso de algas",
+      "refs": [
+        "Map2.res:28"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Kitchen",
+      "es": "Cocina",
+      "refs": [
+        "Map1.res:12",
+        "Map2.res:47",
+        "Map3.res:20",
+        "Map5.res:32"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Landing Field",
+      "es": "Campo de aterrizaje",
+      "refs": [
+        "Map1.res:49"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Library",
+      "es": "Biblioteca",
+      "refs": [
+        "Map1.res:37"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Lift Alcove",
+      "es": "Hueco del elevador",
+      "refs": [
+        "Map2.res:9",
+        "Map3.res:6"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Loading Dock",
+      "es": "Muelle de carga",
+      "refs": [
+        "Map1.res:23"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Lounge and Bar",
+      "es": "Salón y bar",
+      "refs": [
+        "Map5.res:28"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Maintenance",
+      "es": "Mantenimiento",
+      "refs": [
+        "Map5.res:16"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Manufacturing",
+      "es": "Manufactura",
+      "refs": [
+        "Map2.res:34"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Marine Biology Lab",
+      "es": "Lab. biología marina",
+      "refs": [
+        "Map2.res:36"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Med Supplies",
+      "es": "Suministros médicos",
+      "refs": [
+        "Map3.res:8"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Medical Bay",
+      "es": "Bahía médica",
+      "refs": [
+        "Map3.res:5"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Medical Lab",
+      "es": "Laboratorio médico",
+      "refs": [
+        "Map1.res:16",
+        "Map2.res:10"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Medical Prep",
+      "es": "Preparación médica",
+      "refs": [
+        "Map5.res:4"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Medical Training Bay",
+      "es": "Bahía entren. médico",
+      "refs": [
+        "Map7.res:5"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Melee Combat Sector",
+      "es": "Sector cuerpo a cuerpo",
+      "refs": [
+        "Map7.res:8"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Mess Hall",
+      "es": "Comedor",
+      "refs": [
+        "Map3.res:37",
+        "Map5.res:30"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Mineral Analysis",
+      "es": "Análisis mineral",
+      "refs": [
+        "Map3.res:30"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Mineral Separation",
+      "es": "Separación mineral",
+      "refs": [
+        "Map3.res:33"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Mining Control",
+      "es": "Control de minería",
+      "refs": [
+        "Map3.res:16"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Observation Deck",
+      "es": "Cubierta observación",
+      "refs": [
+        "Map1.res:52",
+        "Map2.res:22"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Observatory",
+      "es": "Observatorio",
+      "refs": [
+        "Map3.res:1"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Oceanography Lab",
+      "es": "Lab. oceanografía",
+      "refs": [
+        "Map2.res:50"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Outdoor Prep Area",
+      "es": "Área prep. exterior",
+      "refs": [
+        "Map6.res:4"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Outside",
+      "es": "Exterior",
+      "refs": [
+        "Map3.res:42"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Outside Shuttle",
+      "es": "Fuera del transbord.",
+      "refs": [
+        "Map3.res:11"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Packaging",
+      "es": "Empaque",
+      "refs": [
+        "Map2.res:35"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Parlour",
+      "es": "Salón",
+      "refs": [
+        "Map1.res:46"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Perimeter Outpost NE",
+      "es": "Puesto avanzado NE",
+      "refs": [
+        "Map6.res:8"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Perimeter Outpost SW",
+      "es": "Puesto avanzado SO",
+      "refs": [
+        "Map6.res:2"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Planet Surface",
+      "es": "Superficie planeta",
+      "refs": [
+        "Map1.res:50"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Planet surface (East)",
+      "es": "Superficie (Este)",
+      "refs": [
+        "Map1.res:6"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Planet surface (West)",
+      "es": "Superficie (Oeste)",
+      "refs": [
+        "Map1.res:3"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Power Control",
+      "es": "Control de energía",
+      "refs": [
+        "Map1.res:29"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Pressure Chamber",
+      "es": "Cámara de presión",
+      "refs": [
+        "Map2.res:14"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Pumping Station",
+      "es": "Estación de bombeo",
+      "refs": [
+        "Map2.res:18"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Pumping Station #1",
+      "es": "Estación bombeo #1",
+      "refs": [
+        "Map3.res:9"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Pumping Station #2",
+      "es": "Estación bombeo #2",
+      "refs": [
+        "Map3.res:39"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Quarantine",
+      "es": "Cuarentena",
+      "refs": [
+        "Map1.res:43",
+        "Map5.res:8"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Raw Ice Storage",
+      "es": "Almacén hielo bruto",
+      "refs": [
+        "Map3.res:41"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Reactor",
+      "es": "Reactor",
+      "refs": [
+        "Map1.res:28"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Recreation",
+      "es": "Recreación",
+      "refs": [
+        "Map3.res:24"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Research and Development",
+      "es": "Investig. y desarrollo",
+      "refs": [
+        "Map7.res:6"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Safehouse",
+      "es": "Refugio seguro",
+      "refs": [
+        "Map6.res:1"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Security",
+      "es": "Seguridad",
+      "refs": [
+        "Map2.res:16",
+        "Map5.res:1"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Shower Block",
+      "es": "Bloque de duchas",
+      "refs": [
+        "Map2.res:42"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Showers",
+      "es": "Duchas",
+      "refs": [
+        "Map1.res:35"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Silo",
+      "es": "Silo",
+      "refs": [
+        "Map3.res:34"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Sleeping Quarters #1",
+      "es": "Dormitorios #1",
+      "refs": [
+        "Map1.res:40",
+        "Map2.res:11",
+        "Map3.res:2"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Sleeping Quarters #2",
+      "es": "Dormitorios #2",
+      "refs": [
+        "Map1.res:41",
+        "Map2.res:12",
+        "Map3.res:3"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Sonar Research Lab",
+      "es": "Lab. inv. de sonar",
+      "refs": [
+        "Map2.res:49"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Specimen Collection",
+      "es": "Colección especímenes",
+      "refs": [
+        "Map2.res:33"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Specimen Tank Room",
+      "es": "Sala de tanques",
+      "refs": [
+        "Map6.res:7"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Stasis Deck",
+      "es": "Cubierta de estasis",
+      "refs": [
+        "Map3.res:36"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Storage",
+      "es": "Almacén",
+      "refs": [
+        "Map2.res:30"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Store Room",
+      "es": "Bodega",
+      "refs": [
+        "Map1.res:11",
+        "Map2.res:13"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Study",
+      "es": "Estudio",
+      "refs": [
+        "Map3.res:19"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Telescope",
+      "es": "Telescopio",
+      "refs": [
+        "Map3.res:43"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Toilet Block",
+      "es": "Bloque de baños",
+      "refs": [
+        "Map2.res:45"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Toilets",
+      "es": "Baños",
+      "refs": [
+        "Map1.res:15",
+        "Map3.res:26"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Viewing Deck",
+      "es": "Mirador",
+      "refs": [
+        "Map5.res:38"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Viewing Gallery",
+      "es": "Galería de observación",
+      "refs": [
+        "Map7.res:4"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Warehouse Entry Corridor E",
+      "es": "Pasillo ent. almacén E",
+      "refs": [
+        "Map6.res:6"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Warehouse Entry Corridor N",
+      "es": "Pasillo ent. almacén N",
+      "refs": [
+        "Map6.res:5"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Warehouse Sorting Area",
+      "es": "Área clasif. almacén",
+      "refs": [
+        "Map6.res:11"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Warehouse Storage Area",
+      "es": "Área depósito almacén",
+      "refs": [
+        "Map6.res:10"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Washroom",
+      "es": "Sanitarios",
+      "refs": [
+        "Map5.res:26"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Waste Treatment Plant",
+      "es": "Planta trat. residuos",
+      "refs": [
+        "Map5.res:17"
+      ]
+    },
+    {
+      "max_bytes": 31,
+      "en": "Workshop",
+      "es": "Taller",
+      "refs": [
+        "Map1.res:21",
+        "Map2.res:25",
+        "Map3.res:35"
+      ]
+    }
+  ]
+}

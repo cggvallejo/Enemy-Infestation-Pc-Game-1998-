@@ -1,0 +1,30 @@
+# Compiled standalone game distribution (copyrighted 1998 game assets + binaries)
+dist/
+
+# Raw extracted game archives, sprites, maps, and WAVs
+extracted/
+
+# Raw reverse-engineering dumps and rendered sprite/UI previews
+analysis/
+ei-inspect.json
+
+# Auto-generated WinRT TTS & DSP PCM8 audio cache (rebuilt automatically by tools/build_es.py)
+loc/es/audio_cache/
+
+# Stray compiled launcher binaries inside source directories
+tools/launcher/*.exe
+tools/launcher/*.pdb
+
+# Python artifacts & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+
+# OS & editor temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log

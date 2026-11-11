@@ -1,0 +1,1767 @@
+{
+  "patr": [
+    {
+      "id": 20,
+      "is_alien": false,
+      "max_bytes": 31,
+      "en": "Trooper",
+      "es": "Soldado"
+    },
+    {
+      "id": 21,
+      "is_alien": false,
+      "max_bytes": 31,
+      "en": "Trooper",
+      "es": "Soldado"
+    },
+    {
+      "id": 22,
+      "is_alien": false,
+      "max_bytes": 31,
+      "en": "Physicist",
+      "es": "Física"
+    },
+    {
+      "id": 28,
+      "is_alien": false,
+      "max_bytes": 31,
+      "en": "Barman",
+      "es": "Cantinero"
+    },
+    {
+      "id": 24,
+      "is_alien": false,
+      "max_bytes": 31,
+      "en": "Technician",
+      "es": "Técnica"
+    },
+    {
+      "id": 37,
+      "is_alien": false,
+      "max_bytes": 31,
+      "en": "Mechanic",
+      "es": "Mecánico"
+    },
+    {
+      "id": 39,
+      "is_alien": false,
+      "max_bytes": 31,
+      "en": "Janitor",
+      "es": "Conserje"
+    },
+    {
+      "id": 38,
+      "is_alien": false,
+      "max_bytes": 31,
+      "en": "Cook",
+      "es": "Cocinero"
+    },
+    {
+      "id": 25,
+      "is_alien": false,
+      "max_bytes": 31,
+      "en": "Medical Officer",
+      "es": "Oficial médico"
+    },
+    {
+      "id": 26,
+      "is_alien": false,
+      "max_bytes": 31,
+      "en": "Commander",
+      "es": "Comandante"
+    },
+    {
+      "id": 33,
+      "is_alien": false,
+      "max_bytes": 31,
+      "en": "Biologist",
+      "es": "Bióloga"
+    },
+    {
+      "id": 35,
+      "is_alien": false,
+      "max_bytes": 31,
+      "en": "Service Robot",
+      "es": "Robot de servicio"
+    },
+    {
+      "id": 34,
+      "is_alien": false,
+      "max_bytes": 31,
+      "en": "Cleaner Robot",
+      "es": "Robot limpiador"
+    },
+    {
+      "id": 36,
+      "is_alien": false,
+      "max_bytes": 31,
+      "en": "Spy Camera",
+      "es": "Cámara espía"
+    },
+    {
+      "id": 5,
+      "is_alien": true,
+      "max_bytes": 31,
+      "en": "Cocoon",
+      "es": "Capullo"
+    },
+    {
+      "id": 6,
+      "is_alien": true,
+      "max_bytes": 31,
+      "en": "Grub",
+      "es": "Larva"
+    },
+    {
+      "id": 7,
+      "is_alien": true,
+      "max_bytes": 31,
+      "en": "Warrior",
+      "es": "Guerrero"
+    },
+    {
+      "id": 8,
+      "is_alien": true,
+      "max_bytes": 31,
+      "en": "Thinker",
+      "es": "Pensador"
+    },
+    {
+      "id": 9,
+      "is_alien": true,
+      "max_bytes": 31,
+      "en": "Hunter",
+      "es": "Cazador"
+    },
+    {
+      "id": 11,
+      "is_alien": true,
+      "max_bytes": 31,
+      "en": "Queen",
+      "es": "Reina"
+    },
+    {
+      "id": 10,
+      "is_alien": true,
+      "max_bytes": 31,
+      "en": "Robot",
+      "es": "Robot"
+    }
+  ],
+  "wtyp": [
+    {
+      "id": 22,
+      "max_bytes": 31,
+      "en": "Plant",
+      "es": "Planta"
+    },
+    {
+      "id": 21,
+      "max_bytes": 31,
+      "en": "Beacon",
+      "es": "Baliza"
+    },
+    {
+      "id": 20,
+      "max_bytes": 31,
+      "en": "Tissue Sample",
+      "es": "Muestra de tejido"
+    },
+    {
+      "id": 19,
+      "max_bytes": 31,
+      "en": "Toolbox",
+      "es": "Caja herramientas"
+    },
+    {
+      "id": 18,
+      "max_bytes": 31,
+      "en": "Phase Module",
+      "es": "Módulo de fase"
+    },
+    {
+      "id": 17,
+      "max_bytes": 31,
+      "en": "Minerals",
+      "es": "Minerales"
+    },
+    {
+      "id": 13,
+      "max_bytes": 31,
+      "en": "Gas Gun",
+      "es": "Pistola de gas"
+    },
+    {
+      "id": 16,
+      "max_bytes": 31,
+      "en": "Bait",
+      "es": "Cebo"
+    },
+    {
+      "id": 15,
+      "max_bytes": 31,
+      "en": "Book",
+      "es": "Libro"
+    },
+    {
+      "id": 9,
+      "max_bytes": 31,
+      "en": "Big Orange Gun",
+      "es": "Gran Pistola Naranja"
+    },
+    {
+      "id": 11,
+      "max_bytes": 31,
+      "en": "Rocket Launcher",
+      "es": "Lanzacohetes"
+    },
+    {
+      "id": 0,
+      "max_bytes": 31,
+      "en": "Soda Siphon",
+      "es": "Sifón de soda"
+    },
+    {
+      "id": 1,
+      "max_bytes": 31,
+      "en": "Fire Extinguisher",
+      "es": "Extintor de fuego"
+    },
+    {
+      "id": 2,
+      "max_bytes": 31,
+      "en": "Bug Spray",
+      "es": "Rociador insecticida"
+    },
+    {
+      "id": 3,
+      "max_bytes": 31,
+      "en": "Laser Welder",
+      "es": "Soldador láser"
+    },
+    {
+      "id": 4,
+      "max_bytes": 31,
+      "en": "Hair Spray",
+      "es": "Laca para cabello"
+    },
+    {
+      "id": 5,
+      "max_bytes": 31,
+      "en": "Ray Gun",
+      "es": "Pistola de rayos"
+    },
+    {
+      "id": 6,
+      "max_bytes": 31,
+      "en": "Remote Control",
+      "es": "Control remoto"
+    },
+    {
+      "id": 12,
+      "max_bytes": 31,
+      "en": "Sonic Device",
+      "es": "Dispositivo sónico"
+    },
+    {
+      "id": 7,
+      "max_bytes": 31,
+      "en": "Fuel Cell",
+      "es": "Celda combustible"
+    },
+    {
+      "id": 14,
+      "max_bytes": 31,
+      "en": "Fuel Cell",
+      "es": "Celda combustible"
+    },
+    {
+      "id": 8,
+      "max_bytes": 31,
+      "en": "Gas Bottle",
+      "es": "Tanque de gas"
+    },
+    {
+      "id": 10,
+      "max_bytes": 31,
+      "en": "Cleaver",
+      "es": "Cuchillo carnicero"
+    }
+  ],
+  "weft": [
+    {
+      "id": 1,
+      "max_bytes": 31,
+      "en": "Multiply",
+      "es": "Multiplicar"
+    },
+    {
+      "id": 2,
+      "max_bytes": 31,
+      "en": "Grow",
+      "es": "Crecer"
+    },
+    {
+      "id": 4,
+      "max_bytes": 31,
+      "en": "Attract",
+      "es": "Atraer"
+    },
+    {
+      "id": 5,
+      "max_bytes": 31,
+      "en": "Repel",
+      "es": "Repeler"
+    },
+    {
+      "id": 3,
+      "max_bytes": 31,
+      "en": "Shrink",
+      "es": "Encoger"
+    },
+    {
+      "id": 6,
+      "max_bytes": 31,
+      "en": "Flee",
+      "es": "Huir"
+    },
+    {
+      "id": 7,
+      "max_bytes": 31,
+      "en": "VV.Weak Kill",
+      "es": "Letal mísero"
+    },
+    {
+      "id": 8,
+      "max_bytes": 31,
+      "en": "V.Weak Kill",
+      "es": "Letal muy débil"
+    },
+    {
+      "id": 9,
+      "max_bytes": 31,
+      "en": "Weak Kill",
+      "es": "Letal débil"
+    },
+    {
+      "id": 10,
+      "max_bytes": 31,
+      "en": "Medium Kill",
+      "es": "Letal medio"
+    },
+    {
+      "id": 11,
+      "max_bytes": 31,
+      "en": "Strong Kill",
+      "es": "Letal fuerte"
+    },
+    {
+      "id": 12,
+      "max_bytes": 31,
+      "en": "V.Strong Kill",
+      "es": "Letal muy fuerte"
+    },
+    {
+      "id": 13,
+      "max_bytes": 31,
+      "en": "Super Kill",
+      "es": "Letal súper"
+    },
+    {
+      "id": 14,
+      "max_bytes": 31,
+      "en": "Ultimate Kill",
+      "es": "Letal definitivo"
+    },
+    {
+      "id": 16,
+      "max_bytes": 31,
+      "en": "Random Effect",
+      "es": "Efecto aleatorio"
+    },
+    {
+      "id": 17,
+      "max_bytes": 31,
+      "en": "Unknown Effect",
+      "es": "Efecto desconocido"
+    },
+    {
+      "id": 18,
+      "max_bytes": 31,
+      "en": "No Effect",
+      "es": "Sin efecto"
+    },
+    {
+      "id": 0,
+      "max_bytes": 31,
+      "en": "Default Effect",
+      "es": "Efecto por defecto"
+    }
+  ],
+  "pobj": [
+    {
+      "id": 30,
+      "name_max_bytes": 31,
+      "name_en": "Digital Bookcase",
+      "name_es": "Librero digital",
+      "desc_max_bytes": 79,
+      "desc_en": "Database of (almost) all known facts in the universe.",
+      "desc_es": "Base de datos con (casi) todos los hechos del universo."
+    },
+    {
+      "id": 31,
+      "name_max_bytes": 31,
+      "name_en": "Digital Bookcase",
+      "name_es": "Librero digital",
+      "desc_max_bytes": 79,
+      "desc_en": "Database of (almost) all known facts in the universe.",
+      "desc_es": "Base de datos con (casi) todos los hechos del universo."
+    },
+    {
+      "id": 29,
+      "name_max_bytes": 31,
+      "name_en": "Colonist Grabber",
+      "name_es": "Capturador colonos",
+      "desc_max_bytes": 79,
+      "desc_en": "Alien organism that sucks life and abilities from colonists.",
+      "desc_es": "Organismo alíen que absorbe vida y habilidades de los colonos."
+    },
+    {
+      "id": 27,
+      "name_max_bytes": 31,
+      "name_en": "Locker",
+      "name_es": "Casillero",
+      "desc_max_bytes": 79,
+      "desc_en": "Can contain weapons and other equipment.",
+      "desc_es": "Puede contener armas y otro equipamiento."
+    },
+    {
+      "id": 26,
+      "name_max_bytes": 31,
+      "name_en": "ESPO",
+      "name_es": "ESPO",
+      "desc_max_bytes": 79,
+      "desc_en": "Environment Suit Personnel Outfitter.\nA Suit protects you in extreme conditions.",
+      "desc_es": "Equipador de Traje Ambiental.\nUn traje protege en entornos extremos."
+    },
+    {
+      "id": 25,
+      "name_max_bytes": 31,
+      "name_en": "Medical Bed",
+      "name_es": "Camilla médica",
+      "desc_max_bytes": 79,
+      "desc_en": "Heals colonists and rescued bodies.",
+      "desc_es": "Cura a colonos y cuerpos rescatados."
+    },
+    {
+      "id": 1,
+      "name_max_bytes": 31,
+      "name_en": "Control Table",
+      "name_es": "Mesa de control",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 2,
+      "name_max_bytes": 31,
+      "name_en": "Control Screen",
+      "name_es": "Pantalla de control",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 3,
+      "name_max_bytes": 31,
+      "name_en": "Small Control Screen",
+      "name_es": "Pantalla pequeña",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 4,
+      "name_max_bytes": 31,
+      "name_en": "Lower Fan",
+      "name_es": "Ventilador inferior",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 11,
+      "name_max_bytes": 31,
+      "name_en": "Reels",
+      "name_es": "Carretes",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 6,
+      "name_max_bytes": 31,
+      "name_en": "Pool Table",
+      "name_es": "Mesa de billar",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 16,
+      "name_max_bytes": 31,
+      "name_en": "BOG Rack",
+      "name_es": "Armero B.O.G.",
+      "desc_max_bytes": 79,
+      "desc_en": "Supplies you with Big Orange Guns.",
+      "desc_es": "Suministra Grandes Pistolas Naranjas."
+    },
+    {
+      "id": 15,
+      "name_max_bytes": 31,
+      "name_en": "Press",
+      "name_es": "Prensa",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 18,
+      "name_max_bytes": 31,
+      "name_en": "Another Crane",
+      "name_es": "Otra grúa",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 19,
+      "name_max_bytes": 31,
+      "name_en": "Recharger",
+      "name_es": "Recargador",
+      "desc_max_bytes": 79,
+      "desc_en": "Recharges",
+      "desc_es": "Recarga"
+    },
+    {
+      "id": 20,
+      "name_max_bytes": 31,
+      "name_en": "Computer Terminal",
+      "name_es": "Terminal comp.",
+      "desc_max_bytes": 79,
+      "desc_en": "For communications and control.",
+      "desc_es": "Para comunicaciones y control."
+    },
+    {
+      "id": 21,
+      "name_max_bytes": 31,
+      "name_en": "Computer Terminal",
+      "name_es": "Terminal comp.",
+      "desc_max_bytes": 79,
+      "desc_en": "For communications and control.",
+      "desc_es": "Para comunicaciones y control."
+    },
+    {
+      "id": 23,
+      "name_max_bytes": 31,
+      "name_en": "Door Lock",
+      "name_es": "Seguro de puerta",
+      "desc_max_bytes": 79,
+      "desc_en": "Locks the door or elevator.",
+      "desc_es": "Bloquea la puerta o el elevador."
+    },
+    {
+      "id": 24,
+      "name_max_bytes": 31,
+      "name_en": "Door Lock",
+      "name_es": "Seguro de puerta",
+      "desc_max_bytes": 79,
+      "desc_en": "Locks the door or elevator.",
+      "desc_es": "Bloquea la puerta o el elevador."
+    },
+    {
+      "id": 22,
+      "name_max_bytes": 31,
+      "name_en": "Chemical Lab",
+      "name_es": "Lab. químico",
+      "desc_max_bytes": 79,
+      "desc_en": "Improves",
+      "desc_es": "Mejora"
+    },
+    {
+      "id": 33,
+      "name_max_bytes": 31,
+      "name_en": "Biological Lab",
+      "name_es": "Lab. biológico",
+      "desc_max_bytes": 79,
+      "desc_en": "Experiment on Alien corpses.",
+      "desc_es": "Experimenta con cadáveres alienígenas."
+    },
+    {
+      "id": 32,
+      "name_max_bytes": 31,
+      "name_en": "Technical Lab",
+      "name_es": "Lab. técnico",
+      "desc_max_bytes": 79,
+      "desc_en": "Improves",
+      "desc_es": "Mejora"
+    },
+    {
+      "id": 72,
+      "name_max_bytes": 31,
+      "name_en": "Transformer",
+      "name_es": "Transformador",
+      "desc_max_bytes": 79,
+      "desc_en": "Improves",
+      "desc_es": "Mejora"
+    },
+    {
+      "id": 34,
+      "name_max_bytes": 31,
+      "name_en": "Greenhouse Pond",
+      "name_es": "Estanque invernadero",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 35,
+      "name_max_bytes": 31,
+      "name_en": "Bathtub",
+      "name_es": "Bañera",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 36,
+      "name_max_bytes": 31,
+      "name_en": "Gravitrometer",
+      "name_es": "Gravitómetro",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 37,
+      "name_max_bytes": 31,
+      "name_en": "Fish Tank",
+      "name_es": "Pecera",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 38,
+      "name_max_bytes": 31,
+      "name_en": "Landing Pad",
+      "name_es": "Plataforma aterriz.",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 39,
+      "name_max_bytes": 31,
+      "name_en": "Controls",
+      "name_es": "Controles",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 40,
+      "name_max_bytes": 31,
+      "name_en": "Specimen Tanks",
+      "name_es": "Tanques especímenes",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 41,
+      "name_max_bytes": 31,
+      "name_en": "Reactor Core",
+      "name_es": "Núcleo del reactor",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 42,
+      "name_max_bytes": 31,
+      "name_en": "Monitor",
+      "name_es": "Monitor",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 43,
+      "name_max_bytes": 31,
+      "name_en": "Exhaust Fan",
+      "name_es": "Extractor de aire",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 44,
+      "name_max_bytes": 31,
+      "name_en": "Monitor 1",
+      "name_es": "Monitor 1",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 45,
+      "name_max_bytes": 31,
+      "name_en": "Monitor 2",
+      "name_es": "Monitor 2",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 46,
+      "name_max_bytes": 31,
+      "name_en": "Big Monitor",
+      "name_es": "Monitor grande",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 47,
+      "name_max_bytes": 31,
+      "name_en": "Flight Sim Game",
+      "name_es": "Simulador de vuelo",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 48,
+      "name_max_bytes": 31,
+      "name_en": "Wave Rider Game",
+      "name_es": "Juego Wave Rider",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 49,
+      "name_max_bytes": 31,
+      "name_en": "Hologram",
+      "name_es": "Holograma",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 50,
+      "name_max_bytes": 31,
+      "name_en": "Sign",
+      "name_es": "Letrero",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 51,
+      "name_max_bytes": 31,
+      "name_en": "Conveyor Belts",
+      "name_es": "Cintas transp.",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 52,
+      "name_max_bytes": 31,
+      "name_en": "Light",
+      "name_es": "Luz",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 53,
+      "name_max_bytes": 31,
+      "name_en": "Machinery",
+      "name_es": "Maquinaria",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 54,
+      "name_max_bytes": 31,
+      "name_en": "Monitor",
+      "name_es": "Monitor",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 55,
+      "name_max_bytes": 31,
+      "name_en": "Monitor",
+      "name_es": "Monitor",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 56,
+      "name_max_bytes": 31,
+      "name_en": "Videophone",
+      "name_es": "Videoteléfono",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 57,
+      "name_max_bytes": 31,
+      "name_en": "Body Tank",
+      "name_es": "Tanque corporal",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 58,
+      "name_max_bytes": 31,
+      "name_en": "Bubble Tank",
+      "name_es": "Tanque burbujas",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 59,
+      "name_max_bytes": 31,
+      "name_en": "Pool",
+      "name_es": "Piscina",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 60,
+      "name_max_bytes": 31,
+      "name_en": "Gas Leak",
+      "name_es": "Fuga de gas",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 62,
+      "name_max_bytes": 31,
+      "name_en": "Monitor",
+      "name_es": "Monitor",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 63,
+      "name_max_bytes": 31,
+      "name_en": "Monitor",
+      "name_es": "Monitor",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 64,
+      "name_max_bytes": 31,
+      "name_en": "Monitor",
+      "name_es": "Monitor",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 65,
+      "name_max_bytes": 31,
+      "name_en": "Monitor",
+      "name_es": "Monitor",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 66,
+      "name_max_bytes": 31,
+      "name_en": "",
+      "name_es": "",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 67,
+      "name_max_bytes": 31,
+      "name_en": "Monitor",
+      "name_es": "Monitor",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 68,
+      "name_max_bytes": 31,
+      "name_en": "Tank",
+      "name_es": "Tanque",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 69,
+      "name_max_bytes": 31,
+      "name_en": "Blond Tutor",
+      "name_es": "Tutor rubio",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 70,
+      "name_max_bytes": 31,
+      "name_en": "Brown Tutor",
+      "name_es": "Tutor castaño",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 71,
+      "name_max_bytes": 31,
+      "name_en": "Grey Tutor",
+      "name_es": "Tutor gris",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 73,
+      "name_max_bytes": 31,
+      "name_en": "Alien Pod",
+      "name_es": "Vaina alienígena",
+      "desc_max_bytes": 79,
+      "desc_en": "Fell from the sky.",
+      "desc_es": "Cayó del cielo."
+    },
+    {
+      "id": 74,
+      "name_max_bytes": 31,
+      "name_en": "Barricade",
+      "name_es": "Barricada",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 75,
+      "name_max_bytes": 31,
+      "name_en": "Barricade",
+      "name_es": "Barricada",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 76,
+      "name_max_bytes": 31,
+      "name_en": "Robot Plant",
+      "name_es": "Fábrica de robots",
+      "desc_max_bytes": 79,
+      "desc_en": "Manufacture and create a robot",
+      "desc_es": "Fabrica y crea un robot"
+    },
+    {
+      "id": 77,
+      "name_max_bytes": 31,
+      "name_en": "Flow Valve",
+      "name_es": "Válvula de flujo",
+      "desc_max_bytes": 79,
+      "desc_en": "Regulates pressure.",
+      "desc_es": "Regula la presión."
+    },
+    {
+      "id": 78,
+      "name_max_bytes": 31,
+      "name_en": "Flow Valve",
+      "name_es": "Válvula de flujo",
+      "desc_max_bytes": 79,
+      "desc_en": "Regulates pressure.",
+      "desc_es": "Regula la presión."
+    },
+    {
+      "id": 79,
+      "name_max_bytes": 31,
+      "name_en": "Defence Turret",
+      "name_es": "Torreta defensiva",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 80,
+      "name_max_bytes": 31,
+      "name_en": "Crashed Pod",
+      "name_es": "Vaina estrellada",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 81,
+      "name_max_bytes": 31,
+      "name_en": "Oven",
+      "name_es": "Horno",
+      "desc_max_bytes": 79,
+      "desc_en": "Cooks bait",
+      "desc_es": "Cocina cebos"
+    },
+    {
+      "id": 82,
+      "name_max_bytes": 31,
+      "name_en": "Switch",
+      "name_es": "Interruptor",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    },
+    {
+      "id": 83,
+      "name_max_bytes": 31,
+      "name_en": "Switch",
+      "name_es": "Interruptor",
+      "desc_max_bytes": 79,
+      "desc_en": "",
+      "desc_es": ""
+    }
+  ],
+  "view_tooltips": [
+    {
+      "max_bytes": 79,
+      "ids": [
+        31
+      ],
+      "en": "All your colonists",
+      "es": "Todos tus colonos"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        404
+      ],
+      "en": "Back to the game",
+      "es": "Volver al juego"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        276
+      ],
+      "en": "Chance to hit opponent",
+      "es": "Probabilidad de acertar al enemigo"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        39
+      ],
+      "en": "Click to view debug",
+      "es": "Clic para ver depuración"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        30,
+        480
+      ],
+      "en": "Command buttons are shown here. They apply to all selected colonists.",
+      "es": "Botones de comando; se aplican a los colonos seleccionados."
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        286
+      ],
+      "en": "Current Weapon Charges",
+      "es": "Cargas actuales del arma"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        285
+      ],
+      "en": "Current Weapon.  Click to view info",
+      "es": "Arma actual. Clic para ver información"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        32
+      ],
+      "en": "Current game time",
+      "es": "Tiempo actual de la partida"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        384
+      ],
+      "en": "Current version of the executable & scenraio you are playing",
+      "es": "Versión del ejecutable y escenario que estás jugando"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        277
+      ],
+      "en": "Damage done to enemies health when hit",
+      "es": "Daño causado a la salud del enemigo al impactar"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        281
+      ],
+      "en": "Damage done to targets health when hit",
+      "es": "Daño causado a la salud del objetivo al impactar"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        275
+      ],
+      "en": "Defence",
+      "es": "Defensa"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        279
+      ],
+      "en": "Defence percentage (0-99)",
+      "es": "Porcentaje de defensa (0-99)"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        406
+      ],
+      "en": "Delete the the selected saved game",
+      "es": "Borra la partida guardada seleccionada"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        352
+      ],
+      "en": "Discovered Objects are shown here",
+      "es": "Aquí se muestran los objetos descubiertos"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        261
+      ],
+      "en": "Does it affect the colonists?",
+      "es": "¿Afecta a los colonos?"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        265
+      ],
+      "en": "Does weapon recharge",
+      "es": "¿El arma se recarga?"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        289
+      ],
+      "en": "ECG",
+      "es": "ECG"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        288
+      ],
+      "en": "Health Bar",
+      "es": "Barra de salud"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        274
+      ],
+      "en": "Health points",
+      "es": "Puntos de salud"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        371
+      ],
+      "en": "Help: get some help (Hotkey=F1)",
+      "es": "Ayuda: consulta la ayuda en pantalla (Tecla=F1)"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        283
+      ],
+      "en": "How should the colonist react when an alien is seen",
+      "es": "Cómo debe reaccionar el colono al avistar un alíen"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        284
+      ],
+      "en": "Left click to find colonist on base",
+      "es": "Clic izq. para localizar al colono en la base"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        28
+      ],
+      "en": "Left click to scroll map to pointer position",
+      "es": "Clic izq. para desplazar el mapa a esa posición"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        35
+      ],
+      "en": "Left click to view Comms tab",
+      "es": "Clic izq. para ver la pestaña COMUN."
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        34
+      ],
+      "en": "Left click to view Crew tab",
+      "es": "Clic izq. para ver la pestaña EQUIPO"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        36
+      ],
+      "en": "Left click to view Goals tab",
+      "es": "Clic izq. para ver la pestaña METAS"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        38
+      ],
+      "en": "Left click to view Menu tab (Save/Load/Quit etc)",
+      "es": "Clic izq. para ver la pestaña MENÚ (Guardar/Cargar/Salir)"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        37
+      ],
+      "en": "Left click to view Object tab",
+      "es": "Clic izq. para ver la pestaña OBJETOS"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        33
+      ],
+      "en": "Left click to view Weapon tab",
+      "es": "Clic izq. para ver la pestaña ARMAS"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        402
+      ],
+      "en": "List of all saved games",
+      "es": "Lista de partidas guardadas"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        439
+      ],
+      "en": "List of crew assigned to Blue player",
+      "es": "Tripulación asignada al jugador Azul"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        437
+      ],
+      "en": "List of crew assigned to Green player",
+      "es": "Tripulación asignada al jugador Verde"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        438
+      ],
+      "en": "List of crew assigned to Red player",
+      "es": "Tripulación asignada al jugador Rojo"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        436
+      ],
+      "en": "List of crew assigned to Yellow player",
+      "es": "Tripulación asignada al jugador Amarillo"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        25
+      ],
+      "en": "Load a saved game",
+      "es": "Cargar una partida guardada"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        403
+      ],
+      "en": "Load the selected saved game",
+      "es": "Carga la partida guardada seleccionada"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        369
+      ],
+      "en": "Load: load a saved game (QuickLoad=F3)",
+      "es": "Cargar: abre una partida guardada (Carga rápida=F3)"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        379
+      ],
+      "en": "Master Volume",
+      "es": "Volumen general"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        377
+      ],
+      "en": "Master Volume: decrease",
+      "es": "Volumen general: bajar"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        378
+      ],
+      "en": "Master Volume: increase",
+      "es": "Volumen general: subir"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        278
+      ],
+      "en": "Max health points.",
+      "es": "Puntos máximos de salud."
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        264
+      ],
+      "en": "Maximum number of charges device can hold",
+      "es": "Número máximo de cargas que admite el dispositivo"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        320
+      ],
+      "en": "Messages from the crew and computer are displayed here",
+      "es": "Aquí se muestran los mensajes del equipo y la computadora"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        27
+      ],
+      "en": "Multiplayer Tab",
+      "es": "Pestaña multijugador"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        41
+      ],
+      "en": "Multiplayer Team Colour",
+      "es": "Color de equipo multijugador"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        376
+      ],
+      "en": "Music Volume",
+      "es": "Volumen de música"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        374
+      ],
+      "en": "Music Volume: decrease",
+      "es": "Volumen de música: bajar"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        375
+      ],
+      "en": "Music Volume: increase",
+      "es": "Volumen de música: subir"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        382
+      ],
+      "en": "Next Track",
+      "es": "Pista siguiente"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        263,
+        266
+      ],
+      "en": "Number of charges left in device",
+      "es": "Cantidad de cargas restantes en el dispositivo"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310,
+        311,
+        312,
+        313,
+        314,
+        315
+      ],
+      "en": "One of your colonists.",
+      "es": "Uno de tus colonos."
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        4864,
+        496,
+        497,
+        498,
+        499,
+        500,
+        501,
+        502,
+        503,
+        504,
+        505,
+        506,
+        507
+      ],
+      "en": "One of your colonists.  Left click select, right click info",
+      "es": "Uno de tus colonos. Clic izq. selecciona, clic der. info"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        672
+      ],
+      "en": "Online help.  Use the scrollbar to scroll through the document",
+      "es": "Ayuda en línea. Usa la barra lateral para desplazarte"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        280
+      ],
+      "en": "Percent chance to hit opponent (0-99)",
+      "es": "Porcentaje de acierto contra el enemigo (0-99)"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        381
+      ],
+      "en": "Previous Track",
+      "es": "Pista anterior"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        370
+      ],
+      "en": "Quit: terminate the game",
+      "es": "Salir: cierra el juego"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        267
+      ],
+      "en": "Recharge level",
+      "es": "Nivel de recarga"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        26
+      ],
+      "en": "Save a saved game",
+      "es": "Guardar la partida"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        418
+      ],
+      "en": "Save the game",
+      "es": "Guarda la partida"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        368
+      ],
+      "en": "Save: save the current game (QuickSave=F2)",
+      "es": "Guardar: guarda la partida actual (Guardado rápido=F2)"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        405
+      ],
+      "en": "Saved Game Info",
+      "es": "Info de partida guardada"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        19
+      ],
+      "en": "Selected colonists",
+      "es": "Colonos seleccionados"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        441
+      ],
+      "en": "Send the message to all players",
+      "es": "Envía el mensaje a todos los jugadores"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        316
+      ],
+      "en": "Set all selected colonist's reaction to Fight (Hotkey=F5)",
+      "es": "Fija reacción de colonos seleccionados en LUCHA (F5)"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        318
+      ],
+      "en": "Set all selected colonist's reaction to Guard (Hotkey=F7)",
+      "es": "Fija reacción de colonos seleccionados en GUARD. (F7)"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        317
+      ],
+      "en": "Set all selected colonist's reaction to Hide (Hotkey=F6)",
+      "es": "Fija reacción de colonos seleccionados en OCULT. (F6)"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        319
+      ],
+      "en": "Set all selected colonist's reaction to None (Hotkey=F8)",
+      "es": "Fija reacción de colonos seleccionados en NADA (F8)"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        373
+      ],
+      "en": "Show weapons above the players head?",
+      "es": "¿Mostrar armas sobre la cabeza de los personajes?"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        282
+      ],
+      "en": "Special Abilities",
+      "es": "Habilidades especiales"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        380
+      ],
+      "en": "Subtitle speech on screen?",
+      "es": "¿Mostrar subtítulos de voz en pantalla?"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        24
+      ],
+      "en": "The debug view",
+      "es": "Vista de depuración"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        260,
+        259
+      ],
+      "en": "The effect the weapon has on the aliens",
+      "es": "Efecto que produce el arma sobre los aliens"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        401
+      ],
+      "en": "The game to be loaded",
+      "es": "La partida que se cargará"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        440
+      ],
+      "en": "The message to send to all players when 'Send' is clicked",
+      "es": "Mensaje enviado a todos los jugadores al pulsar 'Enviar'"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        435
+      ],
+      "en": "The name of the Blue player",
+      "es": "Nombre del jugador Azul"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        434
+      ],
+      "en": "The name of the Green player",
+      "es": "Nombre del jugador Verde"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        433
+      ],
+      "en": "The name of the Red player",
+      "es": "Nombre del jugador Rojo"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        432
+      ],
+      "en": "The name of the Yellow player",
+      "es": "Nombre del jugador Amarillo"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        417
+      ],
+      "en": "The title of the game to be saved",
+      "es": "Título de la partida a guardar"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        4865
+      ],
+      "en": "The weapon your colonist is holding.  Right click info",
+      "es": "El arma que lleva tu colono. Clic der. para ver info"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        383
+      ],
+      "en": "Track Number of music being played",
+      "es": "Número de pista musical actual"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        29
+      ],
+      "en": "Watch this space for context sensitive help",
+      "es": "Mira este espacio para ver ayuda contextual"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        69
+      ],
+      "en": "Watch this space for status information",
+      "es": "Mira este espacio para ver información de estado"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        257
+      ],
+      "en": "Weapon Class",
+      "es": "Clase de arma"
+    },
+    {
+      "max_bytes": 79,
+      "ids": [
+        4866
+      ],
+      "en": "Your colonist's current reaction.  Left click to change",
+      "es": "Reacción actual de tu colono. Clic izq. para cambiar"
+    }
+  ]
+}

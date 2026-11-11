@@ -1,0 +1,1047 @@
+[
+  {
+    "id": 1,
+    "en": "Status: Research in progress...",
+    "es": "Estado: Investigación en curso..."
+  },
+  {
+    "id": 2,
+    "en": "Results: Grow effect analysed. Grow weapons now functional.",
+    "es": "Resultados: Efecto Crecer analizado. Armas de crecimiento activas."
+  },
+  {
+    "id": 3,
+    "en": "Results: Multiply analysed. Multiply weapons now functional.",
+    "es": "Resultados: Multiplicar analizado. Armas multiplicadoras activas."
+  },
+  {
+    "id": 4,
+    "en": "Results: Attract analysed. Attract weapons modified.",
+    "es": "Resultados: Atraer analizado. Armas de atracción modificadas."
+  },
+  {
+    "id": 5,
+    "en": "Status: No research conducted.",
+    "es": "Estado: Sin investigación realizada."
+  },
+  {
+    "id": 6,
+    "en": "Results: No more information.",
+    "es": "Resultados: No hay más información."
+  },
+  {
+    "id": 2000,
+    "en": "Number uses left: ",
+    "es": "Usos restantes: "
+  },
+  {
+    "id": 2001,
+    "en": "unlimited",
+    "es": "ilimitados"
+  },
+  {
+    "id": 2002,
+    "en": "Any Colonist can use.",
+    "es": "Cualquier colono puede usarlo."
+  },
+  {
+    "id": 2003,
+    "en": "The door is locked.",
+    "es": "La puerta está cerrada con seguro."
+  },
+  {
+    "id": 2004,
+    "en": "The door is unlocked.",
+    "es": "La puerta está abierta."
+  },
+  {
+    "id": 2005,
+    "en": "The object is broken.",
+    "es": "El objeto está descompuesto."
+  },
+  {
+    "id": 2006,
+    "en": "* Hand to hand combat",
+    "es": "* Combate cuerpo a cuerpo"
+  },
+  {
+    "id": 2007,
+    "en": "* Recharge with a machine",
+    "es": "* Se recarga con una máquina"
+  },
+  {
+    "id": 2008,
+    "en": "* Doesn't Recharge",
+    "es": "* No se recarga"
+  },
+  {
+    "id": 2009,
+    "en": "* Recharges automatically",
+    "es": "* Se recarga automáticamente"
+  },
+  {
+    "id": 2010,
+    "en": "* Affects Colonists",
+    "es": "* Afecta a los colonos"
+  },
+  {
+    "id": 2011,
+    "en": "Needs Colonist",
+    "es": "Requiere un colono"
+  },
+  {
+    "id": 2012,
+    "en": "no one has that ability",
+    "es": "nadie tiene esa habilidad"
+  },
+  {
+    "id": 2013,
+    "en": "This will make the player",
+    "es": "Esto otorgará al personaje"
+  },
+  {
+    "id": 2014,
+    "en": "Drop Alien",
+    "es": "Soltar alíen"
+  },
+  {
+    "id": 2015,
+    "en": "Drop (B)ody",
+    "es": "Soltar cuerpo (B)"
+  },
+  {
+    "id": 2016,
+    "en": "(D)rop Weapon",
+    "es": "(D)ejar arma"
+  },
+  {
+    "id": 2017,
+    "en": "(D)rop Weapons",
+    "es": "(D)ejar armas"
+  },
+  {
+    "id": 2018,
+    "en": "Drop (B)odies",
+    "es": "Soltar cuerpos (B)"
+  },
+  {
+    "id": 2019,
+    "en": "(+)Heal...",
+    "es": "(+)Curar..."
+  },
+  {
+    "id": 2020,
+    "en": "(G)rab Alien...",
+    "es": "Tomar alíen (G)..."
+  },
+  {
+    "id": 2021,
+    "en": "Gives user %d attack points in hand to hand combat.",
+    "es": "Otorga %d puntos de ataque al usuario en combate cuerpo a cuerpo."
+  },
+  {
+    "id": 2022,
+    "en": "Save Failed",
+    "es": "Error al guardar"
+  },
+  {
+    "id": 2023,
+    "en": "File:%s [%s]",
+    "es": "Archivo:%s [%s]"
+  },
+  {
+    "id": 2024,
+    "en": "File:%s Time:%s",
+    "es": "Archivo:%s Hora:%s"
+  },
+  {
+    "id": 2025,
+    "en": "Release",
+    "es": "Soltar"
+  },
+  {
+    "id": 2026,
+    "en": "(D)rop",
+    "es": "(D)ejar"
+  },
+  {
+    "id": 2027,
+    "en": "(H)ide",
+    "es": "Ocultarse (H)"
+  },
+  {
+    "id": 2028,
+    "en": "(F)lee",
+    "es": "Huir (F)"
+  },
+  {
+    "id": 2029,
+    "en": "Stop",
+    "es": "Detener"
+  },
+  {
+    "id": 2030,
+    "en": "(A)ttack",
+    "es": "(A)tacar"
+  },
+  {
+    "id": 2031,
+    "en": "Save OK",
+    "es": "Partida guardada"
+  },
+  {
+    "id": 2033,
+    "en": "Computer",
+    "es": "Computadora"
+  },
+  {
+    "id": 4000,
+    "en": "Digital book containing valuable knowledge",
+    "es": "Libro digital con conocimientos muy valiosos"
+  },
+  {
+    "id": 4001,
+    "en": "A really tasty morsel that is sure to tempt fussy aliens",
+    "es": "Un bocado delicioso capaz de tentar hasta al alíen más exigente"
+  },
+  {
+    "id": 4002,
+    "en": "Crystal material brought back from a survey expedition",
+    "es": "Material cristalino traído de una expedición de reconocimiento"
+  },
+  {
+    "id": 4003,
+    "en": "Experimental electronic device",
+    "es": "Dispositivo electrónico experimental"
+  },
+  {
+    "id": 4004,
+    "en": "Contains every tool known to man.  Including a Swiss Army Knife with over 400 blades",
+    "es": "Contiene todas las herramientas conocidas. Incluye una navaja suiza con más de 400 hojas"
+  },
+  {
+    "id": 4006,
+    "en": "Sends out a pulse for attracting attention",
+    "es": "Emite un pulso para atraer la atención"
+  },
+  {
+    "id": 4007,
+    "en": "One of the few plants native to this stellar region",
+    "es": "Una de las pocas plantas nativas de esta región estelar"
+  },
+  {
+    "id": 4008,
+    "en": "Weapons Data",
+    "es": "Datos de armas"
+  },
+  {
+    "id": 4009,
+    "en": "Detailed instructions on how to improve weapons",
+    "es": "Instrucciones detalladas sobre cómo mejorar las armas"
+  },
+  {
+    "id": 4010,
+    "en": "Recipe Book",
+    "es": "Recetario"
+  },
+  {
+    "id": 4012,
+    "en": "Access Codes",
+    "es": "Códigos de acceso"
+  },
+  {
+    "id": 4013,
+    "en": "List of codes allowing access to high security components",
+    "es": "Lista de códigos que dan acceso a componentes de alta seguridad"
+  },
+  {
+    "id": 4014,
+    "en": "Wiring Diagram",
+    "es": "Diagrama eléctrico"
+  },
+  {
+    "id": 4015,
+    "en": "Diagrams detailing how door locks can be short circuited",
+    "es": "Planos que detallan cómo hacer cortocircuito en cerraduras de puertas"
+  },
+  {
+    "id": 4016,
+    "en": "Repair Manual",
+    "es": "Manual de reparación"
+  },
+  {
+    "id": 4017,
+    "en": "Fix It Yourself: From robots to ESPOs - the colonists maintenance survival guide",
+    "es": "Repáralo tú mismo: de robots a trajes ESPO, la guía de mantenimiento del colono"
+  },
+  {
+    "id": 4018,
+    "en": "First Aid Book",
+    "es": "Manual primeros aux."
+  },
+  {
+    "id": 4019,
+    "en": "Crash course in basic medical revival techniques for emergencies in the field",
+    "es": "Curso rápido de reanimación médica básica para emergencias de campo"
+  },
+  {
+    "id": 4020,
+    "en": "Research Data",
+    "es": "Datos investigación"
+  },
+  {
+    "id": 4021,
+    "en": "Scientific notes containing valuable data to help you with your own research",
+    "es": "Apuntes científicos con datos valiosos para ayudarte con tus propias investigaciones"
+  },
+  {
+    "id": 4022,
+    "en": "Hackers Guide",
+    "es": "Guía de hacker"
+  },
+  {
+    "id": 4023,
+    "en": "A-Z of electronic break and enter to the bases's systems. Nothing about copy protection.",
+    "es": "De la A a la Z para infiltrarse en sistemas de la base. Nada sobre protección anticopia."
+  },
+  {
+    "id": 4025,
+    "en": "Martial arts & crafts from the four corners of the galaxy. Now you are safe.",
+    "es": "Artes marciales de los cuatro rincones de la galaxia. Ahora estás a salvo."
+  },
+  {
+    "id": 4026,
+    "en": "Electrical Weapon",
+    "es": "Arma eléctrica"
+  },
+  {
+    "id": 4027,
+    "en": "Chemical Weapon",
+    "es": "Arma química"
+  },
+  {
+    "id": 4028,
+    "en": "Melee Weapon",
+    "es": "Arma cuerpo a cuerpo"
+  },
+  {
+    "id": 4029,
+    "en": "Special",
+    "es": "Especial"
+  },
+  {
+    "id": 4030,
+    "en": "Electrical",
+    "es": "Eléctrica"
+  },
+  {
+    "id": 4031,
+    "en": "Chemical",
+    "es": "Química"
+  },
+  {
+    "id": 4032,
+    "en": "Melee",
+    "es": "Cuerpo a cuerpo"
+  },
+  {
+    "id": 4033,
+    "en": "Special",
+    "es": "Especial"
+  },
+  {
+    "id": 4034,
+    "en": "Unknown",
+    "es": "Desconocido"
+  },
+  {
+    "id": 6001,
+    "en": "Unable to join session",
+    "es": "No se pudo unir a la sesión"
+  },
+  {
+    "id": 6002,
+    "en": "Phone Number",
+    "es": "Número telefónico"
+  },
+  {
+    "id": 6003,
+    "en": "Player: %s, Team: %s",
+    "es": "Jugador: %s, Equipo: %s"
+  },
+  {
+    "id": 6004,
+    "en": "Waiting For Server...",
+    "es": "Esperando al servidor..."
+  },
+  {
+    "id": 6005,
+    "en": "No entries available",
+    "es": "No hay entradas disponibles"
+  },
+  {
+    "id": 6006,
+    "en": "Failed to create new session",
+    "es": "Error al crear nueva sesión"
+  },
+  {
+    "id": 6010,
+    "en": "Failed to initialise network, you must have DirectX6.0 installed",
+    "es": "Error al iniciar la red; debes tener instalado DirectX 6.0"
+  },
+  {
+    "id": 6015,
+    "en": "Host not responding",
+    "es": "El anfitrión no responde"
+  },
+  {
+    "id": 6016,
+    "en": "Direct Play initialisation failed",
+    "es": "Error al iniciar DirectPlay"
+  },
+  {
+    "id": 7000,
+    "en": "Player One",
+    "es": "Jugador Uno"
+  },
+  {
+    "id": 8000,
+    "en": "%s is broken. Need someone who can fix it.",
+    "es": "%s está averiado. Necesitas a alguien que sepa repararlo."
+  },
+  {
+    "id": 8001,
+    "en": "Robots don't need Environment Suits!",
+    "es": "¡Los robots no necesitan trajes ambientales!"
+  },
+  {
+    "id": 8002,
+    "en": "Robots can't use %s",
+    "es": "Los robots no pueden usar: %s"
+  },
+  {
+    "id": 8003,
+    "en": "Cannot operate machinery wearing a suit",
+    "es": "No se puede operar maquinaria usando un traje"
+  },
+  {
+    "id": 8004,
+    "en": "Cannot operate machinery",
+    "es": "No se puede operar esta maquinaria"
+  },
+  {
+    "id": 8005,
+    "en": "Currently in use",
+    "es": "Actualmente en uso"
+  },
+  {
+    "id": 8006,
+    "en": "Empty container",
+    "es": "Contenedor vacío"
+  },
+  {
+    "id": 8007,
+    "en": "Object is all used up",
+    "es": "El objeto ya se agotó"
+  },
+  {
+    "id": 8008,
+    "en": "Exit in use",
+    "es": "Salida en uso"
+  },
+  {
+    "id": 8009,
+    "en": "You need a weapon",
+    "es": "Necesitas un arma"
+  },
+  {
+    "id": 8010,
+    "en": "Weapon fully recharged",
+    "es": "Arma recargada al máximo"
+  },
+  {
+    "id": 8011,
+    "en": "Weapon already improved",
+    "es": "El arma ya fue mejorada"
+  },
+  {
+    "id": 8012,
+    "en": "You are already carrying a colonist",
+    "es": "Ya estás cargando a un colono"
+  },
+  {
+    "id": 8013,
+    "en": "Nobody to rescue",
+    "es": "Nadie a quien rescatar"
+  },
+  {
+    "id": 8014,
+    "en": "Grabber needs a body",
+    "es": "El capturador necesita un cuerpo"
+  },
+  {
+    "id": 8015,
+    "en": "Cannot heal an alien",
+    "es": "No se puede curar a un alíen"
+  },
+  {
+    "id": 8016,
+    "en": "Fully healed",
+    "es": "Curado por completo"
+  },
+  {
+    "id": 8017,
+    "en": "Need an alien to autopsy",
+    "es": "Necesitas un alíen para la autopsia"
+  },
+  {
+    "id": 8018,
+    "en": "Alien : %s has been researched",
+    "es": "Alíen: %s ya fue investigado"
+  },
+  {
+    "id": 8020,
+    "en": "You need a %s to use this",
+    "es": "Necesitas: %s para usar esto"
+  },
+  {
+    "id": 8021,
+    "en": "Experiment with %s material.",
+    "es": "Experimentar con material de %s."
+  },
+  {
+    "id": 8022,
+    "en": "%s any %s.",
+    "es": "%s cualquier %s."
+  },
+  {
+    "id": 8023,
+    "en": "%s Need a %s for use.",
+    "es": "%s Requiere: %s para usarse."
+  },
+  {
+    "id": 8024,
+    "en": "any weapon",
+    "es": "arma cualquiera"
+  },
+  {
+    "id": 8025,
+    "en": "To use first select a single colonist",
+    "es": "Para usar, primero selecciona a un solo colono"
+  },
+  {
+    "id": 8026,
+    "en": "this machine is broken",
+    "es": "esta máquina está descompuesta"
+  },
+  {
+    "id": 8027,
+    "en": "%s lacks the ability to use this",
+    "es": "%s no tiene la habilidad para usar esto"
+  },
+  {
+    "id": 8028,
+    "en": "Click to use %s in research",
+    "es": "Clic para investigar %s"
+  },
+  {
+    "id": 8029,
+    "en": "Click to improve %s",
+    "es": "Clic para mejorar %s"
+  },
+  {
+    "id": 8030,
+    "en": "Experiment with %s",
+    "es": "Experimenta con %s"
+  },
+  {
+    "id": 8031,
+    "en": "Improves %s",
+    "es": "Mejora: %s"
+  },
+  {
+    "id": 8032,
+    "en": "Click to recharge %s",
+    "es": "Clic para recargar %s"
+  },
+  {
+    "id": 8033,
+    "en": "Recharges %s",
+    "es": "Recarga: %s"
+  },
+  {
+    "id": 8034,
+    "en": "Click to heal %s",
+    "es": "Clic para curar a %s"
+  },
+  {
+    "id": 8035,
+    "en": "Heals players & rescued bodies",
+    "es": "Cura a colonos y cuerpos rescatados"
+  },
+  {
+    "id": 8036,
+    "en": "Creates new objects from old",
+    "es": "Crea objetos nuevos a partir de viejos"
+  },
+  {
+    "id": 8037,
+    "en": "Click to walk over and use",
+    "es": "Clic para acercarte y usar"
+  },
+  {
+    "id": 8038,
+    "en": "Click to use",
+    "es": "Clic para usar"
+  },
+  {
+    "id": 8039,
+    "en": ". Right click info",
+    "es": ". Clic der. p/info"
+  },
+  {
+    "id": 8040,
+    "en": "Unusable",
+    "es": "Inutilizable"
+  },
+  {
+    "id": 9000,
+    "en": "Research weapons",
+    "es": "Investigar armas"
+  },
+  {
+    "id": 9001,
+    "en": "who can research weapons",
+    "es": "capaz de investigar armas"
+  },
+  {
+    "id": 9002,
+    "en": "Cook bait",
+    "es": "Cocinar cebo"
+  },
+  {
+    "id": 9003,
+    "en": "who can cook",
+    "es": "que sepa cocinar"
+  },
+  {
+    "id": 9004,
+    "en": "Military Training",
+    "es": "Entrenamiento militar"
+  },
+  {
+    "id": 9005,
+    "en": "with military training",
+    "es": "con entrenamiento militar"
+  },
+  {
+    "id": 9006,
+    "en": "Electronics Skills",
+    "es": "Electrónica avanzada"
+  },
+  {
+    "id": 9007,
+    "en": "skilled in electronics",
+    "es": "experto en electrónica"
+  },
+  {
+    "id": 9008,
+    "en": "Lock Doors",
+    "es": "Cerrar puertas"
+  },
+  {
+    "id": 9009,
+    "en": "who can lock doors",
+    "es": "capaz de bloquear puertas"
+  },
+  {
+    "id": 9010,
+    "en": "Born Leader",
+    "es": "Líder nato"
+  },
+  {
+    "id": 9011,
+    "en": "who is in command",
+    "es": "que esté al mando"
+  },
+  {
+    "id": 9012,
+    "en": "Repair machines",
+    "es": "Reparar máquinas"
+  },
+  {
+    "id": 9013,
+    "en": "who can repair machines",
+    "es": "capaz de reparar máquinas"
+  },
+  {
+    "id": 9014,
+    "en": "Revive bodies",
+    "es": "Reanimar cuerpos"
+  },
+  {
+    "id": 9015,
+    "en": "with medical knowledge",
+    "es": "con conocimientos médicos"
+  },
+  {
+    "id": 9017,
+    "en": "who is a robot",
+    "es": "que sea un robot"
+  },
+  {
+    "id": 9018,
+    "en": "Research aliens",
+    "es": "Investigar aliens"
+  },
+  {
+    "id": 9019,
+    "en": "with research skills",
+    "es": "con habilidad de investigación"
+  },
+  {
+    "id": 9020,
+    "en": "Extra Damage",
+    "es": "Daño adicional"
+  },
+  {
+    "id": 9021,
+    "en": "with increased damage",
+    "es": "con daño aumentado"
+  },
+  {
+    "id": 9024,
+    "en": "Yellow",
+    "es": "Amarillo"
+  },
+  {
+    "id": 9025,
+    "en": "Green",
+    "es": "Verde"
+  },
+  {
+    "id": 9026,
+    "en": "Red",
+    "es": "Rojo"
+  },
+  {
+    "id": 9027,
+    "en": "Blue",
+    "es": "Azul"
+  },
+  {
+    "id": 9028,
+    "en": "Zombie Grey",
+    "es": "Gris zombi"
+  },
+  {
+    "id": 9029,
+    "en": "%sChemical resistance %2.2d%c",
+    "es": "%sResistencia química %2.2d%c"
+  },
+  {
+    "id": 9030,
+    "en": "%sElectrical resistance %2.2d%c",
+    "es": "%sResistencia eléctrica %2.2d%c"
+  },
+  {
+    "id": 9031,
+    "en": " - anyone at all",
+    "es": " - cualquiera sirve"
+  },
+  {
+    "id": 9032,
+    "en": "None",
+    "es": "Ninguno"
+  },
+  {
+    "id": 9033,
+    "en": " and ",
+    "es": " y "
+  },
+  {
+    "id": 10000,
+    "en": "Demo Mode... Press Esc",
+    "es": "Modo Demo... Pulsa Esc"
+  },
+  {
+    "id": 10001,
+    "en": "Network Gone...",
+    "es": "Red desconectada..."
+  },
+  {
+    "id": 10002,
+    "en": "Victory! Press Esc...",
+    "es": "¡Victoria! Pulsa Esc..."
+  },
+  {
+    "id": 10003,
+    "en": "Defeat. Press Esc...",
+    "es": "Derrota. Pulsa Esc..."
+  },
+  {
+    "id": 10004,
+    "en": "Waiting For Network...",
+    "es": "Esperando conexión de red..."
+  },
+  {
+    "id": 10005,
+    "en": "Game Paused",
+    "es": "Juego en pausa"
+  },
+  {
+    "id": 10006,
+    "en": "EI FatalError",
+    "es": "Error fatal de EI"
+  },
+  {
+    "id": 11000,
+    "en": "Can't pause in multiplayer",
+    "es": "No se puede pausar en multijugador"
+  },
+  {
+    "id": 11004,
+    "en": "Drop carried item first",
+    "es": "Suelta primero el objeto que cargas"
+  },
+  {
+    "id": 11005,
+    "en": "Cannot use weapons",
+    "es": "No puede usar armas"
+  },
+  {
+    "id": 11006,
+    "en": "Select colonist to get weapon",
+    "es": "Selecciona un colono para tomar el arma"
+  },
+  {
+    "id": 11007,
+    "en": "Weapon in use",
+    "es": "Arma en uso"
+  },
+  {
+    "id": 11008,
+    "en": "Select single colonist to use object",
+    "es": "Selecciona un solo colono para usar el objeto"
+  },
+  {
+    "id": 11009,
+    "en": "%s cannot reach room (exit locked)",
+    "es": "%s no puede llegar a la sala (salida cerrada)"
+  },
+  {
+    "id": 11010,
+    "en": "%s needs a Mechanic",
+    "es": "%s necesita un Mecánico"
+  },
+  {
+    "id": 11011,
+    "en": "You need someone who can drag aliens",
+    "es": "Necesitas a alguien capaz de arrastrar aliens"
+  },
+  {
+    "id": 11012,
+    "en": "%s needs help",
+    "es": "%s necesita ayuda"
+  },
+  {
+    "id": 11013,
+    "en": "Asking server for control of player.",
+    "es": "Solicitando control del personaje al servidor."
+  },
+  {
+    "id": 11014,
+    "en": "Drag rectangle to enclose players",
+    "es": "Arrastra un rectángulo para rodear personajes"
+  },
+  {
+    "id": 11015,
+    "en": "%s: To pickup first select a colonist. Right click info",
+    "es": "%s: Para recoger, selecciona primero un colono. Clic der. info"
+  },
+  {
+    "id": 11016,
+    "en": "%s: %s already has a weapon. Drop it first. Right click info.",
+    "es": "%s: %s ya tiene un arma. Déjala primero. Clic der. info."
+  },
+  {
+    "id": 11017,
+    "en": "%s: Click to pick up, Right click info",
+    "es": "%s: Clic para recoger. Clic der. info"
+  },
+  {
+    "id": 11018,
+    "en": "%s: %s cannot pickup. Right click info.",
+    "es": "%s: %s no puede recogerlo. Clic der. info."
+  },
+  {
+    "id": 11019,
+    "en": "%s: Click for %s to pickup. Right click info.",
+    "es": "%s: Clic para que %s lo recoja. Clic der. info."
+  },
+  {
+    "id": 11020,
+    "en": "%s: No one can pick up. Right click info.",
+    "es": "%s: Nadie puede recogerlo. Clic der. info."
+  },
+  {
+    "id": 11021,
+    "en": "%s: Broken (needs repairing). Right click info",
+    "es": "%s: Averiado (requiere reparación). Clic der. info"
+  },
+  {
+    "id": 11022,
+    "en": "%s: Click for %s to repair. Right click info",
+    "es": "%s: Clic para que %s lo repare. Clic der. info"
+  },
+  {
+    "id": 11023,
+    "en": "%s: needs a Mechanic",
+    "es": "%s: necesita un Mecánico"
+  },
+  {
+    "id": 11025,
+    "en": "%s: Click for %s to drag body. Right click info",
+    "es": "%s: Clic para que %s arrastre el cuerpo. Clic der. info"
+  },
+  {
+    "id": 11027,
+    "en": "%s: Click for %s to drag body. Right click info",
+    "es": "%s: Clic para que %s arrastre el cuerpo. Clic der. info"
+  },
+  {
+    "id": 11029,
+    "en": "%s: Click to select, Dbl click to add all. Right click info",
+    "es": "%s: Clic selecciona, doble clic añade a todos. Clic der. info"
+  },
+  {
+    "id": 11030,
+    "en": "%s: Dbl click to add all. Shift click to remove from group. Right click info",
+    "es": "%s: Doble clic añade a todos. Shift+clic quita del grupo. Clic der. info"
+  },
+  {
+    "id": 11031,
+    "en": "%s: Click to select. Shift click to add to group. Dbl click to add all. Right click info",
+    "es": "%s: Clic selecciona. Shift+clic añade. Doble clic añade todos. Clic der. info"
+  },
+  {
+    "id": 11032,
+    "en": "%s%s: Left click to pick up.  Right click info",
+    "es": "%s%s: Clic izq. para recoger. Clic der. info"
+  },
+  {
+    "id": 11033,
+    "en": "Alien %s: Click attack. Right click info",
+    "es": "Alíen %s: Clic para atacar. Clic der. info"
+  },
+  {
+    "id": 11034,
+    "en": "Alien %s: To attack it, first select a colonist. Right click info",
+    "es": "Alíen %s: Selecciona un colono para atacarlo. Clic der. info"
+  },
+  {
+    "id": 11035,
+    "en": "%s: Click to move %s here. Right click info.",
+    "es": "%s: Clic para mover a %s aquí. Clic der. info."
+  },
+  {
+    "id": 11036,
+    "en": "%s: Click to move team here. Right click info.",
+    "es": "%s: Clic para mover el equipo aquí. Clic der. info."
+  },
+  {
+    "id": 11037,
+    "en": "Alien: Click to grab",
+    "es": "Alíen: Clic para capturar"
+  },
+  {
+    "id": 11038,
+    "en": "Click to cancel GrabAlien mode",
+    "es": "Clic para cancelar modo Tomar alíen"
+  },
+  {
+    "id": 11039,
+    "en": "%s: Click to heal",
+    "es": "%s: Clic para curar"
+  },
+  {
+    "id": 11040,
+    "en": "Click to cancel HealColonist mode",
+    "es": "Clic para cancelar modo Curar colono"
+  },
+  {
+    "id": 11041,
+    "en": "Alien",
+    "es": "Alíen"
+  },
+  {
+    "id": 11042,
+    "en": "Alien ",
+    "es": "Alíen "
+  },
+  {
+    "id": 8019,
+    "en": "You need someone %s",
+    "es": "Necesitas a alguien %s"
+  },
+  {
+    "id": 4035,
+    "en": "Command Overrides",
+    "es": "Anulación de mando"
+  },
+  {
+    "id": 4036,
+    "en": "Thumb print activated electronic interface for emergency control of the colony's environment.",
+    "es": "Interfaz electrónica por huella digital para control de emergencia ambiental de la colonia."
+  },
+  {
+    "id": 2034,
+    "en": "Hit",
+    "es": "Golpear"
+  },
+  {
+    "id": 4005,
+    "en": "Gooey material sliced off something definitely alien.",
+    "es": "Material viscoso extraído de algo definitivamente alienígena."
+  },
+  {
+    "id": 4011,
+    "en": "The oven is your oyster - irresistible delights for everyone: from colonists to aliens",
+    "es": "El horno es tu reino: delicias irresistibles para todos, desde colonos hasta aliens"
+  },
+  {
+    "id": 4024,
+    "en": "Defence Manual",
+    "es": "Manual de defensa"
+  },
+  {
+    "id": 9016,
+    "en": "Resist chemicals, is non-human",
+    "es": "Resiste químicos, no humano"
+  },
+  {
+    "id": 9022,
+    "en": "Extra Defence",
+    "es": "Defensa adicional"
+  },
+  {
+    "id": 9023,
+    "en": "with increased defence",
+    "es": "con defensa aumentada"
+  },
+  {
+    "id": 11024,
+    "en": "%s: Comatose (needs healing). Right click info",
+    "es": "%s: En coma (necesita curación). Clic der. info"
+  },
+  {
+    "id": 11026,
+    "en": "%s: Comatose (needs healing).",
+    "es": "%s: En coma (necesita curación)."
+  },
+  {
+    "id": 11028,
+    "en": "%s: Comatose (needs healing).",
+    "es": "%s: En coma (necesita curación)."
+  }
+]

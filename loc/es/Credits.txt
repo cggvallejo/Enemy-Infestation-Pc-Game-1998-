@@ -1,0 +1,338 @@
+
+
+
+
+
+
+
+
+
+
+
+
+ENEMY INFESTATION (TM)
+
+UNA PRODUCCIÓN DE CLOCKWORKS ENTERTAINMENT / RIPCORD GAMES
+
+CLOCKWORKS ENTERTAINMENT
+
+División de Micro Forte Pty. Ltd.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PRODUCTOR
+Steve Wang
+
+PRODUCTORES EJECUTIVOS
+John De Margheriti
+Vicki De Margheriti
+
+
+DIRECCIÓN DE ARTE
+John Darnell
+
+
+PROGRAMADOR LÍDER
+Simon Hayes
+
+PROGRAMACIÓN
+Matthew Cairns
+Michael Shamgar
+Daniel Vidoni
+Steve Wang
+
+PROGRAMACIÓN DE RED
+Carl Sandland
+
+
+DIRECCIÓN DE CINEMÁTICAS
+John Darnell
+John De Margheriti
+
+COORDINACIÓN DE ARTE ADICIONAL
+Jeremy Howdin
+Rowan Matheson
+Parrish Rodgers
+Rachael Johnson
+
+
+ARTISTA 3D SÉNIOR
+Parrish Rodgers
+
+ARTE 3D
+Blaeghd Bell    Lorne Brooks
+Ian Douglass    Alex Goodwin
+Jeremy Howdin    Rachael Johnson
+David King    Richard Ney
+DJ Nicke    Damian Stocks
+
+
+ARTE 3D ADICIONAL
+Scott Anderson    Stuart Anderson
+Brian Aslin    Paul Barac
+Aaron Barclay    Robert Beardow
+Pearl Beckett    Hamish Bell
+Michael Blake    Ashton Boots
+Chris Butterworth    Monique Cameron
+Aidan Clarke    Andrew Cook
+Daniel McCormick    Timothy Crook
+Ben Crowe    Brendan Donnan
+Marik Doughton    Piers Duruz
+Alex Geppart    Charles Gilbert
+Ben Guy    Jana Mitevski
+Mark Hansen    Duncan Howdin
+Brendan Hazel    Daniel Herlihy
+Lex Holden    Ben Hutchings
+Andrew Jefferis    Tamiko Jones
+Moira Kay    Daniel Keating
+Kate Kerrigan    David Kestenbaum
+Brigitte Kuchlmayr    Phillip Lange
+Mark Laverty    Rowan Matheson
+Duncan Maclean    Brett Margules
+Duncan Mcgee    Alexander Moncur
+Dylan Neill    Lisa O'Connor
+Sheree O'Connel    Daniel Oxnam
+Rama Partridge    Con Pappas
+Pali Pederson    James Priest
+Darren Price    Dave Quanwing
+Geoff Randall    Justine Rees
+Dean Redzic    Michael Spence
+Mark Tarnowski    Krystel Taylor
+Cameron Tyler    Gary Turner
+Noah Vice    Alexander Whitlam
+Gavin Williams    Martin Wolczyk
+Amanda Wyndham    Damien Young
+Michael Dean
+
+
+DISEÑADOR LÍDER DE ESCENARIOS
+Ed Orman
+
+
+DISEÑO DE ESCENARIOS
+Blaeghd Bell
+Lorne Brooks
+John De Margheriti
+Ian Douglass
+Parrish Rogers
+Jana Mitevski
+Rachael Johnson
+DJ Nicke
+Michael Shamgar
+Daniel Vidoni
+Steve Wang
+
+
+PROGRAMACIÓN DE BASE DE DATOS
+John Darnell
+
+
+HISTORIA
+Peter Napier Productions
+Zoescope Productions
+Ed Orman
+
+
+MÚSICA
+Kieran Roberts - Moment Music
+
+EFECTOS DE SONIDO
+DJ Nicke
+Simon Hayes
+
+
+CASTING Y DIRECCIÓN DE VOZ
+John Darnell
+
+INGENIERÍA DE SONIDO
+Paul Burnett - Multimedia Art Design
+
+
+ACTORES DE VOZ
+Micki Beckett  Jane Elizabeth O'Donnell
+Sarah Snell  Danielle Antaki
+Stuart Turvey  Iain Sinclair
+Martin William Byrne
+Phil Roberts    Jenny Ongley
+Richard Anderson    Matthew James McCoy
+
+
+CASTING DE MODELOS
+Steve Lloyd
+
+MODELOS
+Barry Baldwin  Ben Morina
+Lauren Bazenski  Barbara Marion
+Lorne Brooks  Noelene Maroske
+Garth Moring Jodie Crimmins
+Belinda Morosin  John Darnell
+Laura Morosin  Glenys Darnell
+Parrish Rodgers  Michelle Dickson
+Jason Saviago  Nicole Eldridge
+Grant Shepherd  Lynn Floyd
+David Singh  Rachael Johnson
+Naiid Zolfagharian  Steve Lloyd
+Jana Mitevski  Damian Stocks
+
+
+TESTER LÍDER
+Michael Dean
+
+TESTERS BETA
+Barry Baldwin  Aidan Clarke
+Katie Darnell  Brendan Donnan
+Daniel Kalma  Andrien Lee
+Adam Llloyd  Mitchell Price
+Daniel Rutter  Lawrence Vidoni
+
+
+PRUEBAS EXTERNAS
+Australian Multimedia Testing Centre
+
+
+SOPORTE TÉCNICO
+John Darnell
+Dominik Ratajaski
+
+
+ARTE DE PORTADA
+David King
+
+ARTE DE PORTADA ADICIONAL
+Blaeghd Bell
+Ian Douglass
+Richard Ney
+Parrish Rogers
+
+
+SOPORTE ADMINISTRATIVO
+Noelene Maroske
+Fran Scorgie
+
+CONTABILIDAD DE PRODUCCIÓN
+Karin Thompson
+
+
+MAYOR NÚMERO DE MENCIONES EN CRÉDITOS
+John Darnell
+
+
+AGRADECIMIENTOS ESPECIALES DE CLOCKWORKS
+
+Bruce Abel   Toby Angwin
+David & Jenny Bailey   Alan Booth
+Ben Cardillo   Alison Cahill
+Veronica Cairns   Ken Chick
+Lachlan Creagh   Maria De Margheriti
+Ian Harman   Sarah Holland
+Stephen & Ann-Marie Lewis   Catherine Mann
+Jodie Nelson   Disa Ohlsson
+John Reidy   Barry Roantree
+Sylvia Sandland   Nicola Teffer
+Dai & Josie Thomas   Dave Timperley
+Anton Winter   Greg Wilden
+Sham's friends   Andrew Orman
+Vera's Cafe  Tigerrrr
+Todos en BlackWattle Studios
+
+
+VISITA NUESTRO SITIO WEB EN:
+www.microforte.com.au
+
+
+
+
+RIPCORD GAMES
+
+
+PRODUCTOR
+Grant Collier
+
+PERSONAL DE PRODUCCIÓN ADICIONAL
+Kelly Zmak
+Nate Wright
+Eric Johnsen
+Jennifer Shuster
+
+
+MERCADOTECNIA Y VENTAS
+John Peterson
+April Souza
+Elizabeth Olson
+Shelley Kent
+Yvonne Martins
+Brad Brown
+Linda Stackpoole
+Tim Moore
+Barbara Loo
+Pat Barrett
+Marko Wityk
+
+
+CONTROL DE CALIDAD
+Ray Snyder
+Jared McWilliams
+Chris Vantine
+
+
+SOPORTE TÉCNICO
+Jim Jennings
+David Conlee
+
+SOCIOS DE ALOJAMIENTO
+Heat
+Mpath
+
+PRUEBAS
+ST-Labs
+
+LOCALIZACIÓN EUROPEA
+Softgold - a Funsoft Company
+
+
+AGRADECIMIENTOS ESPECIALES DE PANASONIC
+Yoshi Terada
+Lou Viveros
+Sandy LaBrec
+Maria DeLaTorre
+Daniel Basse
+John Murden
+
+
+
+
+
+
+
+
+
+
+
+
+
+VISITA NUESTROS SITIOS WEB EN:
+WWW.ENEMYINFESTATION.COM
+WWW.RIPCORDGAMES.COM
+
+
+
+
+
+
+
+
+
+
+
