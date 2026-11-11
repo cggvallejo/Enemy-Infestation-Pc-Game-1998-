@@ -1,12 +1,14 @@
 # Enemy Infestation (1998) — Edición Español Latino & Lanzador HD
 
+🌐 **Idioma / Language:** **Español** | [English](README.en.md)
+
 > *"Hay juegos de la infancia que nunca se olvidan: pasillos oscuros, colonos intentando sobrevivir, puertas electrónicas cerrándose justo a tiempo y alienígenas acechando en cada habitación."*
 
 Este proyecto nació del cariño y la nostalgia por volver a jugar **Enemy Infestation** (1998, Clockworks Entertainment / Micro Forte Pty. Ltd., publicado por Ripcord Games) en PCs y monitores modernos, **completamente traducido y doblado al Español Latinoamericano**, con audio remasterizado, escalado HD sin deformar la imagen y un **lanzador gráfico bilingüe (Español / Inglés)**.
 
 Si tú también creciste jugando este clásico de estrategia táctica en tiempo real, **¡eres más que bienvenido a probarlo, reportar mejoras y mandar tu Pull Request!**
 
-> **English summary:** Open-source reverse-engineering toolkit, `BLK0` asset/archive repacker, complete Latin American Spanish localization (text, extended CP1252 bitmap fonts, 97 UI bitmaps, WinRT TTS dubbing + DSP SFX remastering), pre-tuned `cnc-ddraw` HD wrapper, and a native bilingual (`Español` / `English`) Windows launcher (`Configurar y Jugar.exe`) for the 1998 PC classic *Enemy Infestation*. You must supply your own legal original copy of the game to build the playable distribution locally.
+> 📖 **Looking for the full English README?** Read **[README.en.md](README.en.md)** — it covers everything built here, all HD & bilingual launcher features, build steps, and how to contribute.
 
 ---
 
@@ -139,3 +141,4 @@ Si encuentras un error en algún texto, gráfico o misión, o tienes una mejora 
 - **Enemy Infestation (1998):** © Clockworks Entertainment / Micro Forte Pty. Ltd. / Ripcord Games. Este repositorio **no distribuye ni aloja archivos originales ni material con copyright** del juego; únicamente provee herramientas de software, catálogos de traducción y automatización para que cada usuario transforme su propia copia legítima.
 - **cnc-ddraw:** © FunkyFr3sh ([github.com/FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw)), distribuido bajo licencia MIT.
 - **GLSL Shaders:** © autores de [libretro/glsl-shaders](https://github.com/libretro/glsl-shaders).
+
